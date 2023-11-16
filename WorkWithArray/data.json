@@ -1,0 +1,4448 @@
+{
+  "0A": {
+     "Airline":"Amber Air"
+    },
+  "0B": {
+     "Airline":"Blue Air"
+    },
+  "0C": {
+     "Airline":"IBL Aviation"
+    },
+  "0D": {
+     "Airline":"Darwin Airline"
+    },
+  "0J": {
+     "Airline":"Jetclub"
+    },
+  "0V": {
+     "Airline":"Vietnam Air Services Company (VASCO)"
+    },
+  "1A": {
+     "Airline":"Amadeus IT Group"
+    },
+  "1A": {
+     "Airline":"Amadeus IT Group S.A."
+    },
+  "1B": {
+     "Airline":"Abacus International"
+    },
+  "1B": {
+     "Airline":"Sabre travel network Asia-Pacific (ex-Abacus)"
+    },
+  "1C": {
+     "Airline":"Electronic Data Systems"
+    },
+  "1D": {
+     "Airline":"Radixx"
+    },
+  "1E": {
+     "Airline":"Travelsky"
+    },
+  "1E": {
+     "Airline":"Travelsky Technology"
+    },
+  "1F": {
+     "Airline":"INFINI Travel Information"
+    },
+  "1F": {
+     "Airline":"Infini travel information, Inc."
+    },
+  "1G": {
+     "Airline":"Galileo International"
+    },
+  "1G": {
+     "Airline":"Travelport (Galileo core)"
+    },
+  "1H": {
+     "Airline":"Sirena travel"
+    },
+  "1H": {
+     "Airline":"Siren-Travel"
+    },
+  "1I": {
+     "Airline":"Deutsche Rettungsflugwacht"
+    },
+  "1I": {
+     "Airline":"NetJets"
+    },
+  "1I": {
+     "Airline":"NetJets Europe"
+    },
+  "1I": {
+     "Airline":"Novair"
+    },
+  "1I": {
+     "Airline":"Pegasus Hava Tasimaciligi"
+    },
+  "1I": {
+     "Airline":"Sierra Nevada Airlines"
+    },
+  "1I": {
+     "Airline":"Sky Trek International Airlines"
+    },
+  "1J": {
+     "Airline":"Axess international network, Inc."
+    },
+  "1K": {
+     "Airline":"AIRKIOSK"
+    },
+  "1K": {
+     "Airline":"Southern Cross Distribution"
+    },
+  "1K": {
+     "Airline":"Sutra"
+    },
+  "1L": {
+     "Airline":"Open Skies Consultative Commission"
+    },
+  "1M": {
+     "Airline":"JSC Transport Automated Information Systems"
+    },
+  "1M": {
+     "Airline":"Sirin"
+    },
+  "1N": {
+     "Airline":"Navitaire"
+    },
+  "1P": {
+     "Airline":"Travelport (Worldspan core)"
+    },
+  "1P": {
+     "Airline":"Worldspan"
+    },
+  "1Q": {
+     "Airline":"Sirena"
+    },
+  "1R": {
+     "Airline":"Hainan Phoenix Information Systems"
+    },
+  "1S": {
+     "Airline":"Sabre"
+    },
+  "1S": {
+     "Airline":"Sabre travel network"
+    },
+  "1T": {
+     "Airline":"Bulgarian Air Charter"
+    },
+  "1T": {
+     "Airline":"Hitit Computer Services"
+    },
+  "1U": {
+     "Airline":"Google/ITA"
+    },
+  "1U": {
+     "Airline":"ITA Software"
+    },
+  "1U": {
+     "Airline":"Polyot Sirena"
+    },
+  "1Y": {
+     "Airline":"Electronic Data Systems"
+    },
+  "1Z": {
+     "Airline":"Sabre Pacific"
+    },
+  "2A": {
+     "Airline":"Deutsche Bahn"
+    },
+  "2B": {
+     "Airline":"Albawings"
+    },
+  "2C": {
+     "Airline":"SNCF"
+    },
+  "2D": {
+     "Airline":"Aero VIP"
+    },
+  "2F": {
+     "Airline":"Frontier Flying Service"
+    },
+  "2G": {
+     "Airline":"Cargoitalia"
+    },
+  "2G*": {
+     "Airline":"San Juan Airlines"
+    },
+  "2H": {
+     "Airline":"Thalys"
+    },
+  "2J": {
+     "Airline":"Air Burkina"
+    },
+  "2K": {
+     "Airline":"Avianca Ecuador"
+    },
+  "2K": {
+     "Airline":"Kitty Hawk Airways"
+    },
+  "2L": {
+     "Airline":"Helvetic Airways"
+    },
+  "2M": {
+     "Airline":"Moldavian Airlines"
+    },
+  "2N": {
+     "Airline":"NextJet"
+    },
+  "2N": {
+     "Airline":"Yuzhmashavia"
+    },
+  "2O": {
+     "Airline":"Air Salone"
+    },
+  "2P": {
+     "Airline":"Air Philippines"
+    },
+  "2Q": {
+     "Airline":"Air Cargo Carriers"
+    },
+  "2R": {
+     "Airline":"Via Rail Canada"
+    },
+  "2S": {
+     "Airline":"Island Express"
+    },
+  "2S": {
+     "Airline":"Satgur Air Transport"
+    },
+  "2S": {
+     "Airline":"Star Equatorial Airlines"
+    },
+  "2T": {
+     "Airline":"Haiti Ambassador Airlines"
+    },
+  "2T": {
+     "Airline":"Timbis Air"
+    },
+  "2U": {
+     "Airline":"Air Guinee Express"
+    },
+  "2V*": {
+     "Airline":"Amtrak"
+    },
+  "2W": {
+     "Airline":"Welcome Air"
+    },
+  "2Y": {
+     "Airline":"Air Andaman"
+    },
+  "2Z": {
+     "Airline":"Chang An Airlines"
+    },
+  "3C": {
+     "Airline":"Calima Aviación"
+    },
+  "3C": {
+     "Airline":"RegionsAir"
+    },
+  "3G": {
+     "Airline":"Atlant-Soyuz Airlines"
+    },
+  "3J": {
+     "Airline":"Air Alliance"
+    },
+  "3J": {
+     "Airline":"Zip"
+    },
+  "3K": {
+     "Airline":"Jetstar Asia Airways"
+    },
+  "3L": {
+     "Airline":"Air Arabia Abu Dhabi"
+    },
+  "3L": {
+     "Airline":"Intersky"
+    },
+  "3M": {
+     "Airline":"Silver Airways"
+    },
+  "3N": {
+     "Airline":"Air Urga"
+    },
+  "3O": {
+     "Airline":"Air Arabia Maroc"
+    },
+  "3P": {
+     "Airline":"Tiara Air"
+    },
+  "3Q": {
+     "Airline":"China Yunnan Airlines"
+    },
+  "3Q": {
+     "Airline":"KC International Airlines"
+    },
+  "3R": {
+     "Airline":"Moskovia Airlines"
+    },
+  "3S": {
+     "Airline":"Aerologic"
+    },
+  "3S": {
+     "Airline":"Air Guyane Express"
+    },
+  "3S*": {
+     "Airline":"Aeroland Airways"
+    },
+  "3T": {
+     "Airline":"Turan Air"
+    },
+  "3U": {
+     "Airline":"Sichuan Airlines"
+    },
+  "3V": {
+     "Airline":"TNT  Airways"
+    },
+  "3W": {
+     "Airline":"Euromanx Airways"
+    },
+  "3W*": {
+     "Airline":"Wan Air"
+    },
+  "3X": {
+     "Airline":"Japan Air Commuter"
+    },
+  "3Z": {
+     "Airline":"Smartwings Poland"
+    },
+  "4A": {
+     "Airline":"Air Kiribati"
+    },
+  "4A": {
+     "Airline":"California Pacific Airlines"
+    },
+  "4B": {
+     "Airline":"Boutique Air"
+    },
+  "4C": {
+     "Airline":"Aires, Aerovías de Integración Regional, S.A."
+    },
+  "4D": {
+     "Airline":"Air Sinai"
+    },
+  "4F": {
+     "Airline":"Air City"
+    },
+  "4G": {
+     "Airline":"Gazpromavia"
+    },
+  "4G*": {
+     "Airline":"Advance Leasing Company"
+    },
+  "4H": {
+     "Airline":"United Airways"
+    },
+  "4I": {
+     "Airline":"Knighthawk Air Express"
+    },
+  "4K*": {
+     "Airline":"Askari Aviation"
+    },
+  "4M": {
+     "Airline":"LATAM Argentina"
+    },
+  "4N": {
+     "Airline":"Air North Charter - Canada"
+    },
+  "4O": {
+     "Airline":"Interjet"
+    },
+  "4R": {
+     "Airline":"Hamburg International"
+    },
+  "4R": {
+     "Airline":"Star East Airline"
+    },
+  "4S": {
+     "Airline":"Finalair Congo"
+    },
+  "4T": {
+     "Airline":"Belair Airlines"
+    },
+  "4U": {
+     "Airline":"Germanwings"
+    },
+  "4Y": {
+     "Airline":"Airbus France"
+    },
+  "4Y": {
+     "Airline":"Airbus Industrie"
+    },
+  "4Y": {
+     "Airline":"Airbus Transport International"
+    },
+  "4Y": {
+     "Airline":"Eurowings Discover"
+    },
+  "4Y": {
+     "Airline":"Yute Air Alaska"
+    },
+  "4Z": {
+     "Airline":"Airlink"
+    },
+  "5A": {
+     "Airline":"Alpine Air Express"
+    },
+  "5C": {
+     "Airline":"CAL Cargo Air Lines"
+    },
+  "5D": {
+     "Airline":"Aeroméxico Connect"
+    },
+  "5D": {
+     "Airline":"DonbassAero"
+    },
+  "5F": {
+     "Airline":"Arctic Circle Air Service"
+    },
+  "5F": {
+     "Airline":"Fly One"
+    },
+  "5G": {
+     "Airline":"Skyservice Airlines"
+    },
+  "5J": {
+     "Airline":"Cebu Pacific"
+    },
+  "5K": {
+     "Airline":"Hi Fly"
+    },
+  "5L": {
+     "Airline":"AeroSur"
+    },
+  "5M": {
+     "Airline":"Montserrat Airways"
+    },
+  "5M": {
+     "Airline":"Sibaviatrans"
+    },
+  "5N": {
+     "Airline":"Nordavia"
+    },
+  "5O": {
+     "Airline":"Europe Airpost"
+    },
+  "5P": {
+     "Airline":"Small Planet Airlines"
+    },
+  "5V": {
+     "Airline":"Lviv Airlines"
+    },
+  "5W": {
+     "Airline":"Astraeus"
+    },
+  "5X": {
+     "Airline":"United Parcel Service"
+    },
+  "5Y": {
+     "Airline":"Atlas Air"
+    },
+  "5Z": {
+     "Airline":"Airfreight Express"
+    },
+  "5Z": {
+     "Airline":"Bismillah Airlines"
+    },
+  "5Z": {
+     "Airline":"CemAir"
+    },
+  "5Z": {
+     "Airline":"Gonini Air Services"
+    },
+  "6A": {
+     "Airline":"Aviacsa"
+    },
+  "6B": {
+     "Airline":"TUI  fly Nordic"
+    },
+  "6D": {
+     "Airline":"Smartwings Slovakia"
+    },
+  "6E": {
+     "Airline":"IndiGo"
+    },
+  "6G": {
+     "Airline":"Air Wales"
+    },
+  "6G": {
+     "Airline":"Go2Sky"
+    },
+  "6H": {
+     "Airline":"Israir"
+    },
+  "6I": {
+     "Airline":"International Business Air"
+    },
+  "6J": {
+     "Airline":"Jubba Airways"
+    },
+  "6J": {
+     "Airline":"Solaseed Air"
+    },
+  "6K": {
+     "Airline":"Asian Spirit"
+    },
+  "6N": {
+     "Airline":"Niger Airlines"
+    },
+  "6N": {
+     "Airline":"Nordic Regional"
+    },
+  "6P": {
+     "Airline":"Club Air"
+    },
+  "6P": {
+     "Airline":"Fly Wex"
+    },
+  "6Q": {
+     "Airline":"Slovak Airlines"
+    },
+  "6R": {
+     "Airline":"Aerotransporte de Carga Union"
+    },
+  "6R": {
+     "Airline":"Alrosa Air Company"
+    },
+  "6U": {
+     "Airline":"Air Cargo Germany"
+    },
+  "6U": {
+     "Airline":"Air Ukraine"
+    },
+  "6V": {
+     "Airline":"Air Vegas"
+    },
+  "6V": {
+     "Airline":"Axis Airways"
+    },
+  "6V": {
+     "Airline":"Mars RK"
+    },
+  "6W": {
+     "Airline":"Saratov Airlines Joint Stock Company"
+    },
+  "6Y": {
+     "Airline":"Smartlynx Airlines"
+    },
+  "6Z": {
+     "Airline":"Ukrainian Cargo Airways"
+    },
+  "7A": {
+     "Airline":"Aztec Worldwide Airlines"
+    },
+  "7A": {
+     "Airline":"Express Air Cargo"
+    },
+  "7B": {
+     "Airline":"Bees Airline"
+    },
+  "7B": {
+     "Airline":"Krasnojarsky Airlines"
+    },
+  "7C": {
+     "Airline":"Coyne Aviation"
+    },
+  "7C": {
+     "Airline":"Jeju Air"
+    },
+  "7E": {
+     "Airline":"Sylt Air GmbH"
+    },
+  "7F": {
+     "Airline":"Canadian North"
+    },
+  "7F": {
+     "Airline":"First Air"
+    },
+  "7G": {
+     "Airline":"Star Flyer"
+    },
+  "7H": {
+     "Airline":"Northern Pacific Airways"
+    },
+  "7H": {
+     "Airline":"Ravn Alaska"
+    },
+  "7K": {
+     "Airline":"Kogalymavia Air Company"
+    },
+  "7L": {
+     "Airline":"Silk Way West Airlines"
+    },
+  "7L": {
+     "Airline":"Sun D'Or"
+    },
+  "7M": {
+     "Airline":"Mayair"
+    },
+  "7N": {
+     "Airline":"Pawa Dominicana"
+    },
+  "7O": {
+     "Airline":"Galaxy Air"
+    },
+  "7O": {
+     "Airline":"Smartwings Hungary"
+    },
+  "7R": {
+     "Airline":"BRA-Transportes Aéreos"
+    },
+  "7S": {
+     "Airline":"Ryan Air Services"
+    },
+  "7T": {
+     "Airline":"Air Glaciers"
+    },
+  "7T": {
+     "Airline":"Tobruk Air"
+    },
+  "7W": {
+     "Airline":"Windrose Air"
+    },
+  "8A": {
+     "Airline":"Atlas Blue"
+    },
+  "8B": {
+     "Airline":"Caribbean Star Airlines"
+    },
+  "8C": {
+     "Airline":"Air Horizon"
+    },
+  "8C": {
+     "Airline":"Air Transport International"
+    },
+  "8C": {
+     "Airline":"Corendon Airlines Europe"
+    },
+  "8D": {
+     "Airline":"FitsAir"
+    },
+  "8D": {
+     "Airline":"Servant Air"
+    },
+  "8D*": {
+     "Airline":"Astair"
+    },
+  "8E": {
+     "Airline":"Bering Air"
+    },
+  "8F": {
+     "Airline":"Fischer Air"
+    },
+  "8H": {
+     "Airline":"BH Air"
+    },
+  "8I": {
+     "Airline":"Myway Airlines"
+    },
+  "8J": {
+     "Airline":"Komiinteravia"
+    },
+  "8L": {
+     "Airline":"Cargo Plus Aviation"
+    },
+  "8L": {
+     "Airline":"Redhill Aviation"
+    },
+  "8M": {
+     "Airline":"Maxair"
+    },
+  "8M": {
+     "Airline":"Myanmar Airways International"
+    },
+  "8N": {
+     "Airline":"Barents AirLink"
+    },
+  "8O": {
+     "Airline":"West Coast Air"
+    },
+  "8P": {
+     "Airline":"Pacific Coastal Airlines"
+    },
+  "8Q": {
+     "Airline":"Onur Air"
+    },
+  "8Q": {
+     "Airline":"Princess Air"
+    },
+  "8Q*": {
+     "Airline":"Baker Aviation"
+    },
+  "8S": {
+     "Airline":"Scorpio Aviation"
+    },
+  "8T": {
+     "Airline":"Air Tindi"
+    },
+  "8U": {
+     "Airline":"Afriqiyah Airways"
+    },
+  "8V": {
+     "Airline":"Astral Aviation"
+    },
+  "8V": {
+     "Airline":"Wright Air Service"
+    },
+  "8W": {
+     "Airline":"Fly All Ways"
+    },
+  "8W": {
+     "Airline":"Private Wings Flugcharter"
+    },
+  "8Y": {
+     "Airline":"Air Burundi"
+    },
+  "8Y": {
+     "Airline":"China Postal Airlines"
+    },
+  "8Z": {
+     "Airline":"Wizz Air Bulgaria"
+    },
+  "9A": {
+     "Airline":"Eagle Express Air Charter"
+    },
+  "9C": {
+     "Airline":"Spring Airlines"
+    },
+  "9D": {
+     "Airline":"Aero Continente Dominicana"
+    },
+  "9E": {
+     "Airline":"Endeavor Air"
+    },
+  "9E": {
+     "Airline":"Pinnacle Airlines"
+    },
+  "9I": {
+     "Airline":"Air India Regional"
+    },
+  "9I": {
+     "Airline":"Helitrans"
+    },
+  "9I": {
+     "Airline":"Thai Sky Airlines"
+    },
+  "9K": {
+     "Airline":"Cape Air"
+    },
+  "9L": {
+     "Airline":"AirTanker Services"
+    },
+  "9L": {
+     "Airline":"Colgan Air"
+    },
+  "9M": {
+     "Airline":"Central Mountain Air"
+    },
+  "9O": {
+     "Airline":"National Airways Cameroon"
+    },
+  "9P": {
+     "Airline":"Fly Jinnah"
+    },
+  "9Q": {
+     "Airline":"PB Air"
+    },
+  "9R": {
+     "Airline":"Phuket Air"
+    },
+  "9T": {
+     "Airline":"Air ACT"
+    },
+  "9T": {
+     "Airline":"Transwest  Air"
+    },
+  "9U": {
+     "Airline":"Air Moldova"
+    },
+  "9V": {
+     "Airline":"Vipair Airlines"
+    },
+  "9W": {
+     "Airline":"Jet Airways"
+    },
+  "9Y": {
+     "Airline":"Fly Georgia"
+    },
+  "9Y": {
+     "Airline":"National Airways Ethiopia"
+    },
+  "A0": {
+     "Airline":"Avianca Argentina"
+    },
+  "A2": {
+     "Airline":"Animawings"
+    },
+  "A2": {
+     "Airline":"Astra Airlines"
+    },
+  "A2": {
+     "Airline":"Cielos Airlines"
+    },
+  "A3": {
+     "Airline":"Aegean Airlines"
+    },
+  "A4": {
+     "Airline":"Southern Winds Airlines"
+    },
+  "A5": {
+     "Airline":"Airlinair"
+    },
+  "A5": {
+     "Airline":"Hop!"
+    },
+  "A6": {
+     "Airline":"Air Alps Aviation"
+    },
+  "A6": {
+     "Airline":"Hongtu Airlines"
+    },
+  "A7": {
+     "Airline":"Air Plus Comet"
+    },
+  "A8": {
+     "Airline":"Aerolink Uganda"
+    },
+  "A8": {
+     "Airline":"Benin Golf Air"
+    },
+  "A9": {
+     "Airline":"Georgian Airways"
+    },
+  "AA": {
+     "Airline":"American Airlines"
+    },
+  "AB": {
+     "Airline":"Air Berlin"
+    },
+  "AB": {
+     "Airline":"Bonza"
+    },
+  "AC": {
+     "Airline":"Air Canada"
+    },
+  "AD": {
+     "Airline":"Air Paradise International"
+    },
+  "AD": {
+     "Airline":"Azul Linhas Aéreas Brasileiras"
+    },
+  "AE": {
+     "Airline":"Air Ceylon"
+    },
+  "AE": {
+     "Airline":"Mandarin Airlines"
+    },
+  "AF": {
+     "Airline":"Air France"
+    },
+  "AG": {
+     "Airline":"Aruba Airlines"
+    },
+  "AG": {
+     "Airline":"ASL Airlines Ireland"
+    },
+  "AH": {
+     "Airline":"Air Algérie"
+    },
+  "AI": {
+     "Airline":"Air India Limited"
+    },
+  "AJ": {
+     "Airline":"Aero Contractors"
+    },
+  "AK": {
+     "Airline":"AirAsia"
+    },
+  "AL": {
+     "Airline":"Skywalk Airlines"
+    },
+  "AL": {
+     "Airline":"TransAVIAexport Airlines"
+    },
+  "AM": {
+     "Airline":"Aeroméxico"
+    },
+  "AN": {
+     "Airline":"Advanced Air"
+    },
+  "AN": {
+     "Airline":"Ansett Australia"
+    },
+  "AO": {
+     "Airline":"Australian Airlines"
+    },
+  "AP": {
+     "Airline":"AlbaStar"
+    },
+  "AQ": {
+     "Airline":"Aloha Airlines"
+    },
+  "AQ": {
+     "Airline":"MAP-Management and Planung"
+    },
+  "AR": {
+     "Airline":"Aerolíneas Argentinas"
+    },
+  "AS": {
+     "Airline":"Alaska Airlines, Inc."
+    },
+  "AT": {
+     "Airline":"Royal Air Maroc"
+    },
+  "AU": {
+     "Airline":"Austral Líneas Aéreas"
+    },
+  "AV": {
+     "Airline":"Avianca"
+    },
+  "AW": {
+     "Airline":"Africa World Airlines"
+    },
+  "AW": {
+     "Airline":"CHC Airways"
+    },
+  "AW": {
+     "Airline":"Dirgantara Air Service"
+    },
+  "AX": {
+     "Airline":"AmericanConnection[8]"
+    },
+  "AX": {
+     "Airline":"Trans States Airlines"
+    },
+  "AY": {
+     "Airline":"Finnair"
+    },
+  "AZ": {
+     "Airline":"Alitalia"
+    },
+  "AZ": {
+     "Airline":"ITA Airways"
+    },
+  "B2": {
+     "Airline":"Belavia Belarusian Airlines"
+    },
+  "B3": {
+     "Airline":"Bellview Airlines"
+    },
+  "B3": {
+     "Airline":"Bellview Airlines, Sierra Leone"
+    },
+  "B4": {
+     "Airline":"BACH Flugbetriebsges"
+    },
+  "B4": {
+     "Airline":"Bankair"
+    },
+  "B5": {
+     "Airline":"Flightline"
+    },
+  "B6": {
+     "Airline":"JetBlue Airways"
+    },
+  "B7": {
+     "Airline":"UNI Air"
+    },
+  "B8": {
+     "Airline":"Eritrean Airlines"
+    },
+  "B9": {
+     "Airline":"Air Bangladesh"
+    },
+  "BA": {
+     "Airline":"British Airways"
+    },
+  "BB": {
+     "Airline":"Seaborne Airlines"
+    },
+  "BC": {
+     "Airline":"Skymark Airlines"
+    },
+  "BD": {
+     "Airline":"BMI"
+    },
+  "BE": {
+     "Airline":"Flybe"
+    },
+  "BF": {
+     "Airline":"Aero-Service"
+    },
+  "BF": {
+     "Airline":"MarkAir"
+    },
+  "BG": {
+     "Airline":"Biman Bangladesh Airlines"
+    },
+  "BH": {
+     "Airline":"Hawkair"
+    },
+  "BI": {
+     "Airline":"Royal Brunei Airlines"
+    },
+  "BJ": {
+     "Airline":"Abaeté Linhas Aéreas"
+    },
+  "BJ": {
+     "Airline":"Nouvel Air Tunisie"
+    },
+  "BK": {
+     "Airline":"Potomac Air"
+    },
+  "BL": {
+     "Airline":"Pacific Airlines"
+    },
+  "BM": {
+     "Airline":"Air Sicilia"
+    },
+  "BM": {
+     "Airline":"BMI Regional"
+    },
+  "BN": {
+     "Airline":"Braniff International Airways"
+    },
+  "BN": {
+     "Airline":"Forward Air International Airlines"
+    },
+  "BN": {
+     "Airline":"Horizon Airlines"
+    },
+  "BO": {
+     "Airline":"BB Airways"
+    },
+  "BO": {
+     "Airline":"Bluebird Nordic"
+    },
+  "BO": {
+     "Airline":"Bouraq Indonesia Airlines"
+    },
+  "BP": {
+     "Airline":"Air Botswana"
+    },
+  "BQ": {
+     "Airline":"Aeromar Lineas Aereas Dominicanas"
+    },
+  "BQ": {
+     "Airline":"Baltia Air Lines"
+    },
+  "BR": {
+     "Airline":"EVA Air"
+    },
+  "BS": {
+     "Airline":"British International Helicopters"
+    },
+  "BS": {
+     "Airline":"US-Bangla Airlines"
+    },
+  "BT": {
+     "Airline":"Air Baltic"
+    },
+  "BU": {
+     "Airline":"Buryat Airlines Aircompany"
+    },
+  "BV": {
+     "Airline":"Blue Panorama Airlines"
+    },
+  "BW": {
+     "Airline":"Caribbean Airlines"
+    },
+  "BX": {
+     "Airline":"Air Busan"
+    },
+  "BX": {
+     "Airline":"Coast Air"
+    },
+  "BY": {
+     "Airline":"TUI  Airways"
+    },
+  "BZ": {
+     "Airline":"Blue Dart Aviation"
+    },
+  "BZ": {
+     "Airline":"Keystone Air Service"
+    },
+  "C3": {
+     "Airline":"Independent Carrier (ICAR)"
+    },
+  "C4": {
+     "Airline":"Zimex Aviation"
+    },
+  "C5": {
+     "Airline":"CommutAir"
+    },
+  "C6": {
+     "Airline":"CanJet"
+    },
+  "C7": {
+     "Airline":"Cinnamon Air"
+    },
+  "C7": {
+     "Airline":"Rico Linhas Aéreas"
+    },
+  "C8": {
+     "Airline":"Cargolux Italia"
+    },
+  "C8": {
+     "Airline":"Chicago Jet Group"
+    },
+  "C9": {
+     "Airline":"Cirrus Airlines"
+    },
+  "CA": {
+     "Airline":"Air China"
+    },
+  "CB*": {
+     "Airline":"Kalitta Charters II"
+    },
+  "CC": {
+     "Airline":"Air Atlanta Icelandic"
+    },
+  "CC": {
+     "Airline":"Macair Airlines"
+    },
+  "CD": {
+     "Airline":"Corendon Dutch Airlines"
+    },
+  "CE": {
+     "Airline":"Nationwide Airlines"
+    },
+  "CG": {
+     "Airline":"Airlines PNG"
+    },
+  "CH": {
+     "Airline":"Bemidji Airlines"
+    },
+  "CI": {
+     "Airline":"China Airlines"
+    },
+  "CJ": {
+     "Airline":"BA CityFlyer"
+    },
+  "CJ": {
+     "Airline":"China Northern Airlines"
+    },
+  "CJ": {
+     "Airline":"CityFlyer Express"
+    },
+  "CK": {
+     "Airline":"China Cargo Airlines"
+    },
+  "CL": {
+     "Airline":"Lufthansa CityLine"
+    },
+  "CM": {
+     "Airline":"Copa Airlines"
+    },
+  "CN": {
+     "Airline":"Islands Nationair"
+    },
+  "CN": {
+     "Airline":"Westward Airways"
+    },
+  "CO": {
+     "Airline":"Continental Airlines"
+    },
+  "CO": {
+     "Airline":"Continental Express"
+    },
+  "CP": {
+     "Airline":"Canadian Airlines"
+    },
+  "CP": {
+     "Airline":"Canadian Pacific Airlines"
+    },
+  "CP": {
+     "Airline":"Compass Airlines"
+    },
+  "CQ": {
+     "Airline":"Central Charter"
+    },
+  "CQ": {
+     "Airline":"Sunshine Express Airlines"
+    },
+  "CS": {
+     "Airline":"Cambrian Airways"
+    },
+  "CS": {
+     "Airline":"Continental Micronesia"
+    },
+  "CT": {
+     "Airline":"Civil Air Transport"
+    },
+  "CU": {
+     "Airline":"Cubana de Aviación"
+    },
+  "CV": {
+     "Airline":"Air Chathams"
+    },
+  "CV": {
+     "Airline":"Cargolux"
+    },
+  "CW": {
+     "Airline":"Air Marshall Islands"
+    },
+  "CX": {
+     "Airline":"Cathay Pacific"
+    },
+  "CY": {
+     "Airline":"Cyprus Airways"
+    },
+  "CZ": {
+     "Airline":"China Southern Airlines"
+    },
+  "D0": {
+     "Airline":"DHL Air Limited"
+    },
+  "D2": {
+     "Airline":"Severstal Air Company"
+    },
+  "D3": {
+     "Airline":"Daallo Airlines"
+    },
+  "D4": {
+     "Airline":"Alidaunia"
+    },
+  "D5": {
+     "Airline":"Dauair"
+    },
+  "D6": {
+     "Airline":"Interair South Africa"
+    },
+  "D7": {
+     "Airline":"AirAsia X"
+    },
+  "D7": {
+     "Airline":"FlyAsianXpress"
+    },
+  "D8": {
+     "Airline":"Norwegian Air Sweden"
+    },
+  "D8*": {
+     "Airline":"Norwegian Air International"
+    },
+  "D9": {
+     "Airline":"Donavia"
+    },
+  "DA": {
+     "Airline":"Air Georgia"
+    },
+  "DB": {
+     "Airline":"Brit Air"
+    },
+  "DB": {
+     "Airline":"Maleth-Aero"
+    },
+  "DC": {
+     "Airline":"Golden Air"
+    },
+  "DD": {
+     "Airline":"Danish Air Lines"
+    },
+  "DD": {
+     "Airline":"Nok Air"
+    },
+  "DE": {
+     "Airline":"Condor Flugdienst"
+    },
+  "DG": {
+     "Airline":"Cebgo"
+    },
+  "DH": {
+     "Airline":"Discovery Airways"
+    },
+  "DH": {
+     "Airline":"Independence Air"
+    },
+  "DH": {
+     "Airline":"Norwegian Air Norway"
+    },
+  "DI": {
+     "Airline":"Dba"
+    },
+  "DI": {
+     "Airline":"Norwegian Air UK"
+    },
+  "DJ": {
+     "Airline":"AirAsia Japan"
+    },
+  "DJ": {
+     "Airline":"Pacific Blue"
+    },
+  "DJ": {
+     "Airline":"Polynesian Blue"
+    },
+  "DJ": {
+     "Airline":"Star Air"
+    },
+  "DK": {
+     "Airline":"Eastland Air"
+    },
+  "DL": {
+     "Airline":"Delta Air Lines"
+    },
+  "DM": {
+     "Airline":"Maersk Air"
+    },
+  "DN": {
+     "Airline":"Norwegian Air Argentina"
+    },
+  "DO": {
+     "Airline":"Dominicana de Aviación"
+    },
+  "DP": {
+     "Airline":"Air 2000"
+    },
+  "DP": {
+     "Airline":"First Choice Airways"
+    },
+  "DQ": {
+     "Airline":"Coastal Air"
+    },
+  "DS": {
+     "Airline":"easyJet Switzerland"
+    },
+  "DT": {
+     "Airline":"TAAG Angola Airlines"
+    },
+  "DU": {
+     "Airline":"Norwegian Long Haul"
+    },
+  "DV": {
+     "Airline":"Nantucket Airlines"
+    },
+  "DV": {
+     "Airline":"Scat Air"
+    },
+  "DW": {
+     "Airline":"Aero-Charter Ukraine"
+    },
+  "DX": {
+     "Airline":"DAT Danish Air Transport"
+    },
+  "DY": {
+     "Airline":"Norwegian Air Shuttle"
+    },
+  "E0": {
+     "Airline":"Eos Airlines"
+    },
+  "E1": {
+     "Airline":"Everbread"
+    },
+  "E2": {
+     "Airline":"Eurowings Europe"
+    },
+  "E2": {
+     "Airline":"Kampuchea Airlines"
+    },
+  "E2": {
+     "Airline":"Rio Grande Air"
+    },
+  "E2/E6": {
+     "Airline":"Eurowings Europe"
+    },
+  "E3": {
+     "Airline":"Domodedovo Airlines"
+    },
+  "E3": {
+     "Airline":"Sabaidee Airways"
+    },
+  "E4": {
+     "Airline":"Aero Asia International"
+    },
+  "E5": {
+     "Airline":"Air Arabia Egypt"
+    },
+  "E5": {
+     "Airline":"Samara Airlines"
+    },
+  "E6": {
+     "Airline":"Bringer Air Cargo Taxi Aéreo"
+    },
+  "E7": {
+     "Airline":"Estafeta Carga Aérea"
+    },
+  "E7": {
+     "Airline":"European Aviation Air Charter"
+    },
+  "E8": {
+     "Airline":"Alpi Eagles"
+    },
+  "E9": {
+     "Airline":"Air Memphis"
+    },
+  "E9": {
+     "Airline":"Boston-Maine Airways"
+    },
+  "EA": {
+     "Airline":"Eastern Air Lines"
+    },
+  "EA": {
+     "Airline":"Emerald Airlines"
+    },
+  "EA": {
+     "Airline":"European Air Express"
+    },
+  "EC": {
+     "Airline":"Avialeasing Aviation Company"
+    },
+  "EC": {
+     "Airline":"easyJet Europe"
+    },
+  "ED": {
+     "Airline":"AirExplore"
+    },
+  "ED*": {
+     "Airline":"Airblue"
+    },
+  "EE": {
+     "Airline":"Aero Airlines"
+    },
+  "EG": {
+     "Airline":"Aer Lingus UK"
+    },
+  "EG": {
+     "Airline":"Japan Asia Airways"
+    },
+  "EH": {
+     "Airline":"Air Nippon Network Co. Ltd."
+    },
+  "EH": {
+     "Airline":"SAETA"
+    },
+  "EI": {
+     "Airline":"Aer Lingus"
+    },
+  "EJ": {
+     "Airline":"New England Airlines"
+    },
+  "EK": {
+     "Airline":"Emirates Airlines"
+    },
+  "EL": {
+     "Airline":"Air Nippon"
+    },
+  "EL": {
+     "Airline":"Ellinair"
+    },
+  "EM": {
+     "Airline":"Empire Airlines"
+    },
+  "EM*": {
+     "Airline":"Aero Benin"
+    },
+  "EN": {
+     "Airline":"Air Dolomiti"
+    },
+  "EO": {
+     "Airline":"British Caribbean Airways"
+    },
+  "EO": {
+     "Airline":"Express One International"
+    },
+  "EO": {
+     "Airline":"Hewa Bora Airways"
+    },
+  "EP": {
+     "Airline":"Iran Aseman Airlines"
+    },
+  "EQ": {
+     "Airline":"TAME"
+    },
+  "ER": {
+     "Airline":"Astar Air Cargo"
+    },
+  "ES": {
+     "Airline":"DHL International"
+    },
+  "ET": {
+     "Airline":"Ethiopian Airlines"
+    },
+  "EU": {
+     "Airline":"Empresa Ecuatoriana De Aviación"
+    },
+  "EV": {
+     "Airline":"Atlantic Southeast Airlines"
+    },
+  "EV": {
+     "Airline":"ExpressJet"
+    },
+  "EW": {
+     "Airline":"Eurowings"
+    },
+  "EX": {
+     "Airline":"Air Santo Domingo"
+    },
+  "EX": {
+     "Airline":"Atlantic Airlines"
+    },
+  "EY": {
+     "Airline":"Etihad Airways"
+    },
+  "EZ": {
+     "Airline":"Evergreen International Airlines"
+    },
+  "EZ": {
+     "Airline":"Sun Air of Scandinavia"
+    },
+  "F2": {
+     "Airline":"Fly Air"
+    },
+  "F3": {
+     "Airline":"Faso Airways"
+    },
+  "F4": {
+     "Airline":"Albarka Air"
+    },
+  "F5": {
+     "Airline":"Cosmic Air"
+    },
+  "F6": {
+     "Airline":"FaroeJet"
+    },
+  "F7": {
+     "Airline":"Flybaboo"
+    },
+  "F8": {
+     "Airline":"Flair Airlines"
+    },
+  "F9": {
+     "Airline":"Frontier Airlines"
+    },
+  "FA": {
+     "Airline":"Safair"
+    },
+  "FB": {
+     "Airline":"Bulgaria Air"
+    },
+  "FC": {
+     "Airline":"Finncomm Airlines"
+    },
+  "FD": {
+     "Airline":"Royal Flying Doctor Service"
+    },
+  "FD": {
+     "Airline":"Thai  AirAsia"
+    },
+  "FE": {
+     "Airline":"Far Eastern Air Transport"
+    },
+  "FE": {
+     "Airline":"Primaris Airlines"
+    },
+  "FF": {
+     "Airline":"Airshop"
+    },
+  "FG": {
+     "Airline":"Ariana Afghan Airlines"
+    },
+  "FH": {
+     "Airline":"Freebird Airlines"
+    },
+  "FH": {
+     "Airline":"Futura International Airways"
+    },
+  "FI": {
+     "Airline":"Icelandair"
+    },
+  "FJ": {
+     "Airline":"Fiji Airways"
+    },
+  "FK": {
+     "Airline":"Africa West"
+    },
+  "FK": {
+     "Airline":"Keewatin Air"
+    },
+  "FL": {
+     "Airline":"Air Leap"
+    },
+  "FL": {
+     "Airline":"AirTran Airways"
+    },
+  "FM": {
+     "Airline":"Shanghai Airlines"
+    },
+  "FN": {
+     "Airline":"Regional Air Lines"
+    },
+  "FO": {
+     "Airline":"Airlines of Tasmania"
+    },
+  "FO": {
+     "Airline":"Flybondi"
+    },
+  "FP": {
+     "Airline":"Fly Pro"
+    },
+  "FP": {
+     "Airline":"FlyPelican"
+    },
+  "FP": {
+     "Airline":"Freedom Air"
+    },
+  "FP": {
+     "Airline":"Servicios Aéreos de los Andes"
+    },
+  "FR": {
+     "Airline":"Ryanair"
+    },
+  "FS": {
+     "Airline":"Flyr"
+    },
+  "FS": {
+     "Airline":"Itali Airlines"
+    },
+  "FS": {
+     "Airline":"Servicios de Transportes Aéreos Fueguinos"
+    },
+  "FT": {
+     "Airline":"FlyEgypt"
+    },
+  "FT": {
+     "Airline":"Siem Reap Airways"
+    },
+  "FV": {
+     "Airline":"Pulkovo Aviation Enterprise"
+    },
+  "FV": {
+     "Airline":"Rossiya"
+    },
+  "FW": {
+     "Airline":"Ibex Airlines"
+    },
+  "FX": {
+     "Airline":"FedEx Express"
+    },
+  "FY": {
+     "Airline":"Firefly"
+    },
+  "FY": {
+     "Airline":"Northwest Regional Airlines"
+    },
+  "FZ": {
+     "Airline":"Flydubai"
+    },
+  "G0": {
+     "Airline":"Ghana International Airlines"
+    },
+  "G1": {
+     "Airline":"Gorkha Airlines"
+    },
+  "G2": {
+     "Airline":"Avirex"
+    },
+  "G3": {
+     "Airline":"City Connexion Airlines"
+    },
+  "G3": {
+     "Airline":"Gol Transportes Aéreos"
+    },
+  "G4": {
+     "Airline":"Allegiant Air"
+    },
+  "G5": {
+     "Airline":"China Express Airlines"
+    },
+  "G6": {
+     "Airline":"Air Volga"
+    },
+  "G6": {
+     "Airline":"Fly Arna"
+    },
+  "G6": {
+     "Airline":"Guine Bissaur Airlines"
+    },
+  "G7": {
+     "Airline":"Gandalf Airlines"
+    },
+  "G7": {
+     "Airline":"GoJet Airlines"
+    },
+  "G8": {
+     "Airline":"Air Service Gabon"
+    },
+  "G8": {
+     "Airline":"Enkor JSC"
+    },
+  "G8": {
+     "Airline":"GoAir"
+    },
+  "G8": {
+     "Airline":"Gujarat Airways"
+    },
+  "G9": {
+     "Airline":"Air Arabia"
+    },
+  "GA": {
+     "Airline":"Garuda Indonesia"
+    },
+  "GB": {
+     "Airline":"ABX Air"
+    },
+  "GB": {
+     "Airline":"Airborne Express"
+    },
+  "GC": {
+     "Airline":"Gambia International Airlines"
+    },
+  "GD": {
+     "Airline":"Air Alpha Greenland"
+    },
+  "GE": {
+     "Airline":"TransAsia Airways"
+    },
+  "GF": {
+     "Airline":"Gulf Air"
+    },
+  "GG": {
+     "Airline":"Air Comores International"
+    },
+  "GG": {
+     "Airline":"Air Guyane"
+    },
+  "GG": {
+     "Airline":"Cargo 360"
+    },
+  "GG": {
+     "Airline":"Sky Lease Cargo"
+    },
+  "GH": {
+     "Airline":"Ghana Airways"
+    },
+  "GH": {
+     "Airline":"Globus Airlines"
+    },
+  "GI": {
+     "Airline":"Itek Air"
+    },
+  "GJ": {
+     "Airline":"Eurofly"
+    },
+  "GJ": {
+     "Airline":"Loong Air"
+    },
+  "GJ": {
+     "Airline":"Mexicargo"
+    },
+  "GK": {
+     "Airline":"Go One Airways"
+    },
+  "GK": {
+     "Airline":"Jetstar Japan"
+    },
+  "GL": {
+     "Airline":"Air Greenland"
+    },
+  "GM": {
+     "Airline":"Air Slovakia"
+    },
+  "GN": {
+     "Airline":"Air Gabon"
+    },
+  "GO": {
+     "Airline":"Kuzu Airlines Cargo"
+    },
+  "GP": {
+     "Airline":"APG Airlines"
+    },
+  "GP": {
+     "Airline":"Palau Trans Pacific Airlines"
+    },
+  "GQ": {
+     "Airline":"Big Sky Airlines"
+    },
+  "GR": {
+     "Airline":"Aurigny Air Services"
+    },
+  "GR": {
+     "Airline":"Gemini Air Cargo"
+    },
+  "GS": {
+     "Airline":"Air Foyle"
+    },
+  "GS": {
+     "Airline":"Tianjin  Airlines"
+    },
+  "GT": {
+     "Airline":"GB Airways"
+    },
+  "GV": {
+     "Airline":"Aero Flight"
+    },
+  "GV": {
+     "Airline":"Grant Aviation"
+    },
+  "GW": {
+     "Airline":"Costa Rica Green Airways"
+    },
+  "GW": {
+     "Airline":"Kuban Airlines"
+    },
+  "GW": {
+     "Airline":"SkyGreece Airlines"
+    },
+  "GX": {
+     "Airline":"JetX Airlines"
+    },
+  "GX": {
+     "Airline":"Pacificair"
+    },
+  "GY": {
+     "Airline":"Guyana Airways 2000"
+    },
+  "GY": {
+     "Airline":"Tri-MG Intra Asia Airlines"
+    },
+  "GZ": {
+     "Airline":"Air Rarotonga"
+    },
+  "H1": {
+     "Airline":"Hahn Air Systems"
+    },
+  "H1": {
+     "Airline":"Hooters Air"
+    },
+  "H2": {
+     "Airline":"Sky Airline"
+    },
+  "H4": {
+     "Airline":"Héli Sécurité Helicopter Airlines"
+    },
+  "H4": {
+     "Airline":"Inter Island Airways"
+    },
+  "H5": {
+     "Airline":"Hola Airlines"
+    },
+  "H5": {
+     "Airline":"Mavial Magadan Airlines"
+    },
+  "H6": {
+     "Airline":"Hageland Aviation Services"
+    },
+  "H7": {
+     "Airline":"Air Alfa"
+    },
+  "H7": {
+     "Airline":"Eagle Air"
+    },
+  "H8": {
+     "Airline":"Dalavia"
+    },
+  "H9": {
+     "Airline":"Air d'Ayiti"
+    },
+  "H9": {
+     "Airline":"Himalaya Airlines"
+    },
+  "H9": {
+     "Airline":"Izair"
+    },
+  "HA": {
+     "Airline":"Hawaiian Airlines"
+    },
+  "HB": {
+     "Airline":"Greater Bay Airlines"
+    },
+  "HB": {
+     "Airline":"Harbor Airlines"
+    },
+  "HC": {
+     "Airline":"Aero-Tropics Air Services"
+    },
+  "HC": {
+     "Airline":"Air Senegal"
+    },
+  "HC": {
+     "Airline":"Holidays Czech Airlines"
+    },
+  "HC": {
+     "Airline":"Iceland Express"
+    },
+  "HD": {
+     "Airline":"Air Holland"
+    },
+  "HD": {
+     "Airline":"AIRDO"
+    },
+  "HE": {
+     "Airline":"German Airways"
+    },
+  "HF": {
+     "Airline":"Hapagfly"
+    },
+  "HG": {
+     "Airline":"Niki"
+    },
+  "HH": {
+     "Airline":"Hope Air"
+    },
+  "HJ": {
+     "Airline":"Hellas Jet"
+    },
+  "HJ": {
+     "Airline":"Tasman Cargo Airlines"
+    },
+  "HK": {
+     "Airline":"Four Star Aviation / Four Star Cargo"
+    },
+  "HM": {
+     "Airline":"Air Seychelles"
+    },
+  "HN": {
+     "Airline":"Heavylift Cargo Airlines"
+    },
+  "HO": {
+     "Airline":"Antinea Airlines"
+    },
+  "HO": {
+     "Airline":"Juneyao Airlines"
+    },
+  "HP": {
+     "Airline":"America West Airlines"
+    },
+  "HP": {
+     "Airline":"Hawaiian Pacific Airlines"
+    },
+  "HP": {
+     "Airline":"Pearl Airways"
+    },
+  "HP": {
+     "Airline":"Phoenix Airways"
+    },
+  "HQ": {
+     "Airline":"Harmony Airways"
+    },
+  "HQ": {
+     "Airline":"Thomas Cook Airlines"
+    },
+  "HR": {
+     "Airline":"Hahn Air"
+    },
+  "HT": {
+     "Airline":"Aeromist-Kharkiv"
+    },
+  "HU": {
+     "Airline":"Hainan Airlines"
+    },
+  "HV": {
+     "Airline":"Transavia Holland"
+    },
+  "HW": {
+     "Airline":"Hello"
+    },
+  "HW": {
+     "Airline":"North-Wright Airways"
+    },
+  "HX": {
+     "Airline":"Hong Kong Airlines"
+    },
+  "HY": {
+     "Airline":"Uzbekistan Airways"
+    },
+  "HZ": {
+     "Airline":"Sakhalinskie Aviatrassy (SAT)"
+    },
+  "HZ": {
+     "Airline":"Sat Airlines"
+    },
+  "I2": {
+     "Airline":"Iberia Express"
+    },
+  "I4": {
+     "Airline":"Interstate Airlines"
+    },
+  "I4": {
+     "Airline":"Island Air Express"
+    },
+  "I5": {
+     "Airline":"AirAsia India"
+    },
+  "I6": {
+     "Airline":"Sky Eyes"
+    },
+  "I7": {
+     "Airline":"IndiaOne Air"
+    },
+  "I7": {
+     "Airline":"Paramount Airways"
+    },
+  "I9": {
+     "Airline":"Indigo Airlines"
+    },
+  "IA": {
+     "Airline":"Iraqi Airways"
+    },
+  "IB": {
+     "Airline":"Iberia Airlines"
+    },
+  "IC": {
+     "Airline":"Indian Airlines"
+    },
+  "ID": {
+     "Airline":"Batik Air"
+    },
+  "ID": {
+     "Airline":"Interlink Airlines"
+    },
+  "IE": {
+     "Airline":"Solomon Airlines"
+    },
+  "IF": {
+     "Airline":"Islas Airways"
+    },
+  "IG": {
+     "Airline":"Air Italy"
+    },
+  "IG": {
+     "Airline":"Meridiana"
+    },
+  "IH": {
+     "Airline":"Falcon Aviation"
+    },
+  "IH": {
+     "Airline":"Irtysh Air"
+    },
+  "II": {
+     "Airline":"IBC Airways"
+    },
+  "IJ": {
+     "Airline":"Air Liberté"
+    },
+  "IJ": {
+     "Airline":"Great Wall Airlines"
+    },
+  "IJ": {
+     "Airline":"Spring Airlines Japan"
+    },
+  "IK": {
+     "Airline":"Ikar"
+    },
+  "IK": {
+     "Airline":"Lankair"
+    },
+  "IM": {
+     "Airline":"Menajet"
+    },
+  "IN": {
+     "Airline":"MAT Macedonian Airlines"
+    },
+  "IN": {
+     "Airline":"NAM Air"
+    },
+  "IO": {
+     "Airline":"Indonesian Airlines"
+    },
+  "IP": {
+     "Airline":"Atyrau Air Ways"
+    },
+  "IP": {
+     "Airline":"One Airlines"
+    },
+  "IQ": {
+     "Airline":"Augsburg Airways"
+    },
+  "IR": {
+     "Airline":"Iran Air"
+    },
+  "IT": {
+     "Airline":"Kingfisher Airlines"
+    },
+  "IT": {
+     "Airline":"Tigerair  Taiwan"
+    },
+  "IV": {
+     "Airline":"Wind Jet"
+    },
+  "IW": {
+     "Airline":"AOM French Airlines"
+    },
+  "IW": {
+     "Airline":"Wings Air"
+    },
+  "IX": {
+     "Airline":"Air India Express"
+    },
+  "IY": {
+     "Airline":"Yemenia"
+    },
+  "IZ": {
+     "Airline":"Arkia Israel Airlines"
+    },
+  "J2": {
+     "Airline":"Azerbaijan Airlines"
+    },
+  "J3": {
+     "Airline":"Northwestern Air"
+    },
+  "J4": {
+     "Airline":"Badr Airlines"
+    },
+  "J4": {
+     "Airline":"Buffalo Airways"
+    },
+  "J4": {
+     "Airline":"Jordan International Air Cargo"
+    },
+  "J6": {
+     "Airline":"AVCOM"
+    },
+  "J7": {
+     "Airline":"Centre-Avia"
+    },
+  "J7": {
+     "Airline":"Denim Air"
+    },
+  "J7": {
+     "Airline":"ValuJet Airlines"
+    },
+  "J8": {
+     "Airline":"Berjaya Air"
+    },
+  "J9": {
+     "Airline":"Guinee Airlines"
+    },
+  "J9": {
+     "Airline":"Jazeera Airways"
+    },
+  "JA": {
+     "Airline":"B&H Airlines"
+    },
+  "JA": {
+     "Airline":"JetSMART"
+    },
+  "JB": {
+     "Airline":"Helijet"
+    },
+  "JC": {
+     "Airline":"JAL Express"
+    },
+  "JD": {
+     "Airline":"Beijing Capital Airlines"
+    },
+  "JE": {
+     "Airline":"Mango"
+    },
+  "JF": {
+     "Airline":"Jet Asia Airways"
+    },
+  "JF": {
+     "Airline":"L.A.B. Flying Service"
+    },
+  "JH": {
+     "Airline":"Fuji Dream Airlines"
+    },
+  "JH": {
+     "Airline":"Nordeste Linhas Aéreas Regionais"
+    },
+  "JI": {
+     "Airline":"Jade Cargo International"
+    },
+  "JI": {
+     "Airline":"Midway Airlines (1993–2003)"
+    },
+  "JJ": {
+     "Airline":"Aviogenex"
+    },
+  "JJ": {
+     "Airline":"LATAM  Brasil"
+    },
+  "JK": {
+     "Airline":"Spanair"
+    },
+  "JL": {
+     "Airline":"Japan Airlines"
+    },
+  "JL": {
+     "Airline":"Japan Airlines Domestic"
+    },
+  "JM": {
+     "Airline":"Air Jamaica"
+    },
+  "JM": {
+     "Airline":"Jetstar Hong Kong Airways"
+    },
+  "JN": {
+     "Airline":"Excel Airways"
+    },
+  "JO": {
+     "Airline":"JALways"
+    },
+  "JO": {
+     "Airline":"Jettime"
+    },
+  "JP": {
+     "Airline":"Adria Airways"
+    },
+  "JQ": {
+     "Airline":"Jetstar"
+    },
+  "JR": {
+     "Airline":"Aero California"
+    },
+  "JS": {
+     "Airline":"Air Koryo"
+    },
+  "JT": {
+     "Airline":"Lion Air"
+    },
+  "JU": {
+     "Airline":"Air Serbia"
+    },
+  "JV": {
+     "Airline":"Bearskin Lake Air Service"
+    },
+  "JW": {
+     "Airline":"Arrow Air"
+    },
+  "JW": {
+     "Airline":"Vanilla Air"
+    },
+  "JX": {
+     "Airline":"Jett8 Airlines Cargo"
+    },
+  "JX": {
+     "Airline":"Starlux Airlines"
+    },
+  "JY": {
+     "Airline":"Air Turks and Caicos"
+    },
+  "JY": {
+     "Airline":"InterCaribbean Airways"
+    },
+  "JZ": {
+     "Airline":"Skyways Express"
+    },
+  "K2": {
+     "Airline":"Eurolot"
+    },
+  "K3": {
+     "Airline":"Taquan Air Services"
+    },
+  "K4": {
+     "Airline":"Kalitta Air"
+    },
+  "K5": {
+     "Airline":"SeaPort Airlines"
+    },
+  "K6": {
+     "Airline":"Angkor Air"
+    },
+  "K6": {
+     "Airline":"Cambodia Angkor Air"
+    },
+  "K6": {
+     "Airline":"Khalifa Airways"
+    },
+  "K8": {
+     "Airline":"Airlink Zambia"
+    },
+  "K9": {
+     "Airline":"Kalitta Charters"
+    },
+  "K9": {
+     "Airline":"Krylo Airlines"
+    },
+  "KA": {
+     "Airline":"Cathay Dragon"
+    },
+  "KB": {
+     "Airline":"Druk Air"
+    },
+  "KC": {
+     "Airline":"Air Astana"
+    },
+  "KD": {
+     "Airline":"Air Enterprise"
+    },
+  "KD": {
+     "Airline":"Kalstar Aviation"
+    },
+  "KD": {
+     "Airline":"KD Avia"
+    },
+  "KE": {
+     "Airline":"Korean Air"
+    },
+  "KF": {
+     "Airline":"Blue1"
+    },
+  "KG": {
+     "Airline":"Key Lime Air"
+    },
+  "KG": {
+     "Airline":"LAI - Línea Aérea IAACA"
+    },
+  "KH": {
+     "Airline":"Aloha Air Cargo"
+    },
+  "KI": {
+     "Airline":"Adam Air"
+    },
+  "KI": {
+     "Airline":"Air Atlantique"
+    },
+  "KI": {
+     "Airline":"KaiserAir"
+    },
+  "KI": {
+     "Airline":"SKS Airways"
+    },
+  "KJ": {
+     "Airline":"Air Incheon"
+    },
+  "KJ": {
+     "Airline":"Asian Air"
+    },
+  "KJ": {
+     "Airline":"British Mediterranean Airways"
+    },
+  "KK": {
+     "Airline":"Atlasjet"
+    },
+  "KL": {
+     "Airline":"KLM"
+    },
+  "KM": {
+     "Airline":"Air Malta"
+    },
+  "KN": {
+     "Airline":"China United Airlines"
+    },
+  "KO": {
+     "Airline":"Alaska Central Express"
+    },
+  "KP": {
+     "Airline":"Kiwi International Air Lines"
+    },
+  "KQ": {
+     "Airline":"Kenya Airways"
+    },
+  "KR": {
+     "Airline":"Cambodia Airways"
+    },
+  "KR": {
+     "Airline":"Comores Airlines"
+    },
+  "KR": {
+     "Airline":"Kitty Hawk Aircargo"
+    },
+  "KS": {
+     "Airline":"Peninsula Airways"
+    },
+  "KU": {
+     "Airline":"Kuwait Airways"
+    },
+  "KV": {
+     "Airline":"Kavminvodyavia"
+    },
+  "KV": {
+     "Airline":"Sky Regional Airlines"
+    },
+  "KW": {
+     "Airline":"Kelowna Flightcraft Air Charter"
+    },
+  "KW": {
+     "Airline":"Kharkiv Airlines"
+    },
+  "KW": {
+     "Airline":"Wataniya Airways"
+    },
+  "KX": {
+     "Airline":"Cayman Airways"
+    },
+  "KY": {
+     "Airline":"Air São Tomé and Príncipe"
+    },
+  "KZ": {
+     "Airline":"Nippon Cargo Airlines"
+    },
+  "L1": {
+     "Airline":"Lufthansa Systems"
+    },
+  "L2": {
+     "Airline":"Lynden Air Cargo"
+    },
+  "L3": {
+     "Airline":"DHL de Guatemala"
+    },
+  "L3": {
+     "Airline":"LTU Austria"
+    },
+  "L4": {
+     "Airline":"Lynx Aviation"
+    },
+  "L5": {
+     "Airline":"Línea Aérea Cuencana"
+    },
+  "L5": {
+     "Airline":"Lufttransport"
+    },
+  "L6": {
+     "Airline":"Air Maldives"
+    },
+  "L6": {
+     "Airline":"Tbilaviamsheni"
+    },
+  "L7": {
+     "Airline":"Laoag International Airlines"
+    },
+  "L7": {
+     "Airline":"Línea Aérea SAPSA"
+    },
+  "L8": {
+     "Airline":"Air Luxor GB"
+    },
+  "L9": {
+     "Airline":"Air Mali"
+    },
+  "L9": {
+     "Airline":"Belle Air Europe"
+    },
+  "L9": {
+     "Airline":"Bristow U.S. LLC"
+    },
+  "L9": {
+     "Airline":"Teamline  Air"
+    },
+  "LA": {
+     "Airline":"LATAM Chile"
+    },
+  "LB": {
+     "Airline":"Air Costa"
+    },
+  "LB": {
+     "Airline":"Lloyd Aéreo Boliviano"
+    },
+  "LC": {
+     "Airline":"Varig Logística"
+    },
+  "LD": {
+     "Airline":"Air Hong Kong"
+    },
+  "LF": {
+     "Airline":"Contour Airlines"
+    },
+  "LF": {
+     "Airline":"FlyNordic"
+    },
+  "LG": {
+     "Airline":"Luxair"
+    },
+  "LH": {
+     "Airline":"Lufthansa"
+    },
+  "LH": {
+     "Airline":"Lufthansa Cargo"
+    },
+  "LI": {
+     "Airline":"Leeward Islands Air Transport"
+    },
+  "LJ": {
+     "Airline":"Jin Air"
+    },
+  "LJ": {
+     "Airline":"Sierra National Airlines"
+    },
+  "LK": {
+     "Airline":"Air Luxor"
+    },
+  "LL": {
+     "Airline":"Allegro"
+    },
+  "LL": {
+     "Airline":"Miami Air International"
+    },
+  "LM": {
+     "Airline":"Livingston Energy Flight"
+    },
+  "LM": {
+     "Airline":"Loganair"
+    },
+  "LN": {
+     "Airline":"Libyan Arab Airlines"
+    },
+  "LO": {
+     "Airline":"LOT Polish Airlines"
+    },
+  "LP": {
+     "Airline":"LATAM Peru"
+    },
+  "LQ": {
+     "Airline":"Lebanese Air Transport"
+    },
+  "LR": {
+     "Airline":"LACSA"
+    },
+  "LS": {
+     "Airline":"Jet2"
+    },
+  "LS": {
+     "Airline":"Jet2.com"
+    },
+  "LT": {
+     "Airline":"LongJiang Airlines"
+    },
+  "LT": {
+     "Airline":"LTU International"
+    },
+  "LU": {
+     "Airline":"LATAM Express"
+    },
+  "LV": {
+     "Airline":"Albanian Airlines"
+    },
+  "LV": {
+     "Airline":"Level"
+    },
+  "LW": {
+     "Airline":"Pacific Wings"
+    },
+  "LW": {
+     "Airline":"Sun Air International"
+    },
+  "LX": {
+     "Airline":"Swiss International Air Lines"
+    },
+  "LY": {
+     "Airline":"El Al Israel Airlines"
+    },
+  "LZ": {
+     "Airline":"Balkan Bulgarian Airlines"
+    },
+  "LZ[56]": {
+     "Airline":"Swiss Global Air Lines"
+    },
+  "M2": {
+     "Airline":"Mahfooz Aviation"
+    },
+  "M2": {
+     "Airline":"MHS Aviation GmbH"
+    },
+  "M3": {
+     "Airline":"ABSA Cargo"
+    },
+  "M3": {
+     "Airline":"Air Service"
+    },
+  "M3": {
+     "Airline":"North Flying"
+    },
+  "M4": {
+     "Airline":"Mistral Air"
+    },
+  "M4": {
+     "Airline":"Poste Air Cargo"
+    },
+  "M5": {
+     "Airline":"Kenmore Air"
+    },
+  "M6": {
+     "Airline":"Amerijet International"
+    },
+  "M7": {
+     "Airline":"Marsland Aviation"
+    },
+  "M7": {
+     "Airline":"MasAir"
+    },
+  "M7": {
+     "Airline":"Tropical  Airways"
+    },
+  "M8": {
+     "Airline":"Mekong Airlines"
+    },
+  "M9": {
+     "Airline":"Motor Sich"
+    },
+  "MA": {
+     "Airline":"Malév Hungarian Airlines"
+    },
+  "MB": {
+     "Airline":"Execair Aviation"
+    },
+  "MB": {
+     "Airline":"MNG Airlines"
+    },
+  "MC": {
+     "Airline":"Air Mobility Command"
+    },
+  "MD": {
+     "Airline":"Air Madagascar"
+    },
+  "ME": {
+     "Airline":"Middle East Airlines"
+    },
+  "MF": {
+     "Airline":"Xiamen Airlines"
+    },
+  "MG": {
+     "Airline":"Champion Air"
+    },
+  "MH": {
+     "Airline":"Malaysia Airlines"
+    },
+  "MH": {
+     "Airline":"MASwings"
+    },
+  "MI": {
+     "Airline":"SilkAir"
+    },
+  "MJ": {
+     "Airline":"Líneas Aéreas Privadas Argentinas"
+    },
+  "MJ": {
+     "Airline":"Mihin Lanka"
+    },
+  "MK": {
+     "Airline":"Air Mauritius"
+    },
+  "ML": {
+     "Airline":"Aero Costa Rica"
+    },
+  "ML": {
+     "Airline":"African Transport Trading and Investment Company"
+    },
+  "ML": {
+     "Airline":"Air Mediterranee"
+    },
+  "ML": {
+     "Airline":"Midway Airlines (1976–1991)"
+    },
+  "MM": {
+     "Airline":"EuroAtlantic Airways"
+    },
+  "MM": {
+     "Airline":"SAM Colombia"
+    },
+  "MN": {
+     "Airline":"Comair"
+    },
+  "MO": {
+     "Airline":"Calm Air"
+    },
+  "MO": {
+     "Airline":"Presidential Flight"
+    },
+  "MP": {
+     "Airline":"Martinair"
+    },
+  "MQ": {
+     "Airline":"American Eagle Airlines"
+    },
+  "MQ": {
+     "Airline":"Envoy Air"
+    },
+  "MR": {
+     "Airline":"Air Mauritanie"
+    },
+  "MR": {
+     "Airline":"Hunnu Air"
+    },
+  "MS": {
+     "Airline":"Egyptair"
+    },
+  "MT": {
+     "Airline":"JMC Airlines"
+    },
+  "MT": {
+     "Airline":"Thomas Cook Airlines"
+    },
+  "MU": {
+     "Airline":"China Eastern Airlines"
+    },
+  "MV": {
+     "Airline":"Air Mediterranean"
+    },
+  "MW": {
+     "Airline":"Maya Island Air"
+    },
+  "MW": {
+     "Airline":"Mokulele Airlines"
+    },
+  "MX": {
+     "Airline":"Breeze Airways"
+    },
+  "MX": {
+     "Airline":"Mexicana de Aviación"
+    },
+  "MY": {
+     "Airline":"Maxjet Airways"
+    },
+  "MY": {
+     "Airline":"Midwest Airlines (Egypt)"
+    },
+  "MZ": {
+     "Airline":"Merpati Nusantara Airlines"
+    },
+  "N/A": {
+     "Airline":"North Coast Air Services Ltd"
+    },
+  "N/A": {
+     "Airline":"T3 Aviation, Inc."
+    },
+  "N0": {
+     "Airline":"Norse Atlantic Airways"
+    },
+  "N2": {
+     "Airline":"Dagestan Airlines"
+    },
+  "N2": {
+     "Airline":"Kabo Air"
+    },
+  "N4": {
+     "Airline":"Mountain Air Company"
+    },
+  "N4": {
+     "Airline":"National Airlines"
+    },
+  "N4": {
+     "Airline":"Nordwind Airlines"
+    },
+  "N5": {
+     "Airline":"Fly Easy"
+    },
+  "N5": {
+     "Airline":"Kyrgyz Airlines"
+    },
+  "N5": {
+     "Airline":"Norfolk Air"
+    },
+  "N5": {
+     "Airline":"Skagway Air Service"
+    },
+  "N6": {
+     "Airline":"Lagun Air"
+    },
+  "N6": {
+     "Airline":"Nuevo Continente"
+    },
+  "N7": {
+     "Airline":"National Airlines"
+    },
+  "N8": {
+     "Airline":"Fika Salaama Airlines"
+    },
+  "N8": {
+     "Airline":"National Air Cargo dba National Airlines"
+    },
+  "N9": {
+     "Airline":"North Coast Aviation"
+    },
+  "N9": {
+     "Airline":"Shree Airlines"
+    },
+  "NA": {
+     "Airline":"National Airlines"
+    },
+  "NA": {
+     "Airline":"North American Airlines"
+    },
+  "NB": {
+     "Airline":"Sterling Airlines"
+    },
+  "NC": {
+     "Airline":"National Jet Systems"
+    },
+  "NC": {
+     "Airline":"Northern Air Cargo"
+    },
+  "NE": {
+     "Airline":"SkyEurope"
+    },
+  "NF": {
+     "Airline":"Air Vanuatu"
+    },
+  "NG": {
+     "Airline":"Lauda Air"
+    },
+  "NH": {
+     "Airline":"All Nippon Airways"
+    },
+  "NI": {
+     "Airline":"LANICA"
+    },
+  "NI": {
+     "Airline":"Portugalia"
+    },
+  "NK": {
+     "Airline":"Spirit Airlines"
+    },
+  "NL": {
+     "Airline":"Shaheen Air"
+    },
+  "NM": {
+     "Airline":"Air Madrid"
+    },
+  "NM": {
+     "Airline":"Mount Cook Airline"
+    },
+  "NN": {
+     "Airline":"VIM Airlines"
+    },
+  "NO": {
+     "Airline":"Aus-Air"
+    },
+  "NO": {
+     "Airline":"Neos"
+    },
+  "NQ": {
+     "Airline":"Air Japan"
+    },
+  "NR": {
+     "Airline":"Pamir Airways"
+    },
+  "NT": {
+     "Airline":"Binter Canarias"
+    },
+  "NU": {
+     "Airline":"Japan Transocean Air"
+    },
+  "NV": {
+     "Airline":"Air Central"
+    },
+  "NW": {
+     "Airline":"Northwest Airlines"
+    },
+  "NX": {
+     "Airline":"Air Macau"
+    },
+  "NY": {
+     "Airline":"Air Iceland"
+    },
+  "NZ": {
+     "Airline":"Air Nelson"
+    },
+  "NZ": {
+     "Airline":"Eagle Airways"
+    },
+  "NZ\nTE": {
+     "Airline":"Air New Zealand"
+    },
+  "O2": {
+     "Airline":"Linear Air"
+    },
+  "O2": {
+     "Airline":"OLT Express"
+    },
+  "O3": {
+     "Airline":"SF Airlines"
+    },
+  "O4": {
+     "Airline":"Antrak Air"
+    },
+  "O6": {
+     "Airline":"Avianca Brasil"
+    },
+  "O7": {
+     "Airline":"OzJet"
+    },
+  "O8": {
+     "Airline":"Oasis Hong Kong Airlines"
+    },
+  "O9": {
+     "Airline":"Nova Airline"
+    },
+  "OA": {
+     "Airline":"Olympic Air"
+    },
+  "OA": {
+     "Airline":"Olympic Airlines"
+    },
+  "OB": {
+     "Airline":"Astrakhan Airlines"
+    },
+  "OB": {
+     "Airline":"Austrian Airtransport"
+    },
+  "OB": {
+     "Airline":"Boliviana de Aviación"
+    },
+  "OB": {
+     "Airline":"Oasis Airlines"
+    },
+  "OB": {
+     "Airline":"Oasis International Airlines Now assigned to Boliviana de Aviacion (BoA)"
+    },
+  "OD": {
+     "Airline":"Malindo Airways"
+    },
+  "OE": {
+     "Airline":"Asia Overnight Express"
+    },
+  "OE": {
+     "Airline":"LaudaMotion"
+    },
+  "OE[36]": {
+     "Airline":"LaudaMotion"
+    },
+  "OF": {
+     "Airline":"Air Finland"
+    },
+  "OF": {
+     "Airline":"Enter Air"
+    },
+  "OF": {
+     "Airline":"Transports et Travaux  Aériens de Madagascar"
+    },
+  "OH": {
+     "Airline":"Comair"
+    },
+  "OH": {
+     "Airline":"PSA Airlines"
+    },
+  "OJ": {
+     "Airline":"Fly Jamaica Airways"
+    },
+  "OJ": {
+     "Airline":"Overland Airways"
+    },
+  "OK": {
+     "Airline":"Czech Airlines"
+    },
+  "OL": {
+     "Airline":"OLT Express Germany"
+    },
+  "OL": {
+     "Airline":"Samoa Air"
+    },
+  "OL": {
+     "Airline":"Ultra Air"
+    },
+  "OM": {
+     "Airline":"MIAT Mongolian Airlines"
+    },
+  "ON": {
+     "Airline":"Our Airline"
+    },
+  "OO": {
+     "Airline":"SkyWest Airlines"
+    },
+  "OP": {
+     "Airline":"Chalk's International Airlines"
+    },
+  "OQ": {
+     "Airline":"Chongqing Airlines"
+    },
+  "OR": {
+     "Airline":"TUI fly Netherlands"
+    },
+  "OS": {
+     "Airline":"Austrian Airlines"
+    },
+  "OT": {
+     "Airline":"Aeropelican Air Services"
+    },
+  "OU": {
+     "Airline":"Croatia Airlines"
+    },
+  "OV": {
+     "Airline":"Estonian Air"
+    },
+  "OV": {
+     "Airline":"SalamAir"
+    },
+  "OW": {
+     "Airline":"Executive Airlines"
+    },
+  "OX": {
+     "Airline":"Orient Thai Airlines"
+    },
+  "OY": {
+     "Airline":"Andes Líneas Aéreas"
+    },
+  "OY": {
+     "Airline":"Omni Air International"
+    },
+  "OZ": {
+     "Airline":"Asiana Airlines"
+    },
+  "OZ": {
+     "Airline":"Ozark Air Lines"
+    },
+  "P0": {
+     "Airline":"Proflight Zambia"
+    },
+  "P2": {
+     "Airline":"Small Planet Airlines"
+    },
+  "P3": {
+     "Airline":"Aeroflot-Plus"
+    },
+  "P3": {
+     "Airline":"Cargo Logic Air"
+    },
+  "P3": {
+     "Airline":"Passaredo Transportes Aéreos"
+    },
+  "P5": {
+     "Airline":"AeroRepública"
+    },
+  "P6": {
+     "Airline":"Privilege Style Líneas Aéreas"
+    },
+  "P7": {
+     "Airline":"Regional Paraguaya"
+    },
+  "P7": {
+     "Airline":"Russian Sky Airlines"
+    },
+  "P7": {
+     "Airline":"Small Planet Airlines"
+    },
+  "P8": {
+     "Airline":"Air Mekong"
+    },
+  "P8": {
+     "Airline":"Pantanal Linhas Aéreas"
+    },
+  "P9": {
+     "Airline":"Nas Air"
+    },
+  "P9": {
+     "Airline":"Perm Airlines"
+    },
+  "P9": {
+     "Airline":"Peruvian Airlines"
+    },
+  "PA": {
+     "Airline":"Florida Coastal Airlines"
+    },
+  "PA": {
+     "Airline":"Pan American Airways"
+    },
+  "PA": {
+     "Airline":"Pan American World Airways"
+    },
+  "PB": {
+     "Airline":"Provincial Airlines"
+    },
+  "PC": {
+     "Airline":"Air Fiji"
+    },
+  "PC": {
+     "Airline":"Pegasus Airlines"
+    },
+  "PD": {
+     "Airline":"Porter Airlines"
+    },
+  "PE": {
+     "Airline":"Air Europe Italy"
+    },
+  "PE": {
+     "Airline":"People's"
+    },
+  "PF": {
+     "Airline":"Palestinian Airlines"
+    },
+  "PG": {
+     "Airline":"Bangkok Airways"
+    },
+  "PH": {
+     "Airline":"Polynesian Airlines"
+    },
+  "PI": {
+     "Airline":"Piedmont Airlines (1948-1989)"
+    },
+  "PI": {
+     "Airline":"Sol del Paraguay"
+    },
+  "PI": {
+     "Airline":"Sun Air (Fiji)"
+    },
+  "PJ": {
+     "Airline":"Air Saint Pierre"
+    },
+  "PK": {
+     "Airline":"Pakistan International Airlines"
+    },
+  "PL": {
+     "Airline":"Aeroperú"
+    },
+  "PL": {
+     "Airline":"Airstars"
+    },
+  "PM": {
+     "Airline":"Tropic Air"
+    },
+  "PN": {
+     "Airline":"Pan American Airways"
+    },
+  "PN": {
+     "Airline":"West Air (China)"
+    },
+  "PO": {
+     "Airline":"Polar Air Cargo"
+    },
+  "PP": {
+     "Airline":"Jet Aviation"
+    },
+  "PQ": {
+     "Airline":"SkyUp"
+    },
+  "PR": {
+     "Airline":"2GO"
+    },
+  "PR": {
+     "Airline":"Philippine Airlines"
+    },
+  "PS": {
+     "Airline":"Ukraine International Airlines"
+    },
+  "PT": {
+     "Airline":"Capital Cargo International Airlines"
+    },
+  "PT": {
+     "Airline":"West Air Sweden"
+    },
+  "PU": {
+     "Airline":"PLUNA"
+    },
+  "PV": {
+     "Airline":"PAN Air"
+    },
+  "PV": {
+     "Airline":"St Barth Commuter"
+    },
+  "PW": {
+     "Airline":"Precision Air"
+    },
+  "PX": {
+     "Airline":"Air Niugini"
+    },
+  "PY": {
+     "Airline":"Surinam Airways"
+    },
+  "PZ": {
+     "Airline":"LATAM Paraguay"
+    },
+  "PZ": {
+     "Airline":"TAM  Mercosur"
+    },
+  "Q2": {
+     "Airline":"Maldivian (airline)"
+    },
+  "Q3": {
+     "Airline":"Zambian Airways"
+    },
+  "Q4": {
+     "Airline":"Mastertop Linhas Aéreas"
+    },
+  "Q4": {
+     "Airline":"Starlink Aviation"
+    },
+  "Q4": {
+     "Airline":"Swazi Express Airways"
+    },
+  "Q5": {
+     "Airline":"40-Mile Air"
+    },
+  "Q6": {
+     "Airline":"Aero Condor Peru"
+    },
+  "Q7": {
+     "Airline":"SkyBahamas"
+    },
+  "Q8": {
+     "Airline":"Pacific East Asia Cargo Airlines"
+    },
+  "Q9": {
+     "Airline":"Afrinat International Airlines"
+    },
+  "QB": {
+     "Airline":"Air Alma"
+    },
+  "QB": {
+     "Airline":"Georgian National Airlines"
+    },
+  "QC": {
+     "Airline":"Air Corridor"
+    },
+  "QC": {
+     "Airline":"Camair-Co"
+    },
+  "QD": {
+     "Airline":"Air Class Líneas Aéreas"
+    },
+  "QE": {
+     "Airline":"Crossair Europe"
+    },
+  "QF": {
+     "Airline":"Eastern Australia Airlines"
+    },
+  "QF": {
+     "Airline":"Qantas"
+    },
+  "QF": {
+     "Airline":"QantasLink"
+    },
+  "QF": {
+     "Airline":"Sunstate Airlines"
+    },
+  "QH": {
+     "Airline":"Aero Leasing"
+    },
+  "QH": {
+     "Airline":"Air Florida"
+    },
+  "QH": {
+     "Airline":"Air Kyrgyzstan"
+    },
+  "QH": {
+     "Airline":"Bamboo Airways"
+    },
+  "QH": {
+     "Airline":"Kyrgyzstan"
+    },
+  "QI": {
+     "Airline":"Cimber Sterling"
+    },
+  "QJ": {
+     "Airline":"Jet Airways"
+    },
+  "QK": {
+     "Airline":"Air Canada Jazz"
+    },
+  "QL": {
+     "Airline":"Aero Lanka"
+    },
+  "QL": {
+     "Airline":"Lankan Cargo"
+    },
+  "QL": {
+     "Airline":"Línea Aérea de Servicio Ejecutivo Regional"
+    },
+  "QM": {
+     "Airline":"Air Malawi"
+    },
+  "QN": {
+     "Airline":"Air Armenia"
+    },
+  "QO": {
+     "Airline":"Aeromexpress"
+    },
+  "QO": {
+     "Airline":"Bar Harbor Airlines"
+    },
+  "QO": {
+     "Airline":"Origin Pacific Airways"
+    },
+  "QP": {
+     "Airline":"Akasa Air"
+    },
+  "QQ": {
+     "Airline":"Alliance Airlines"
+    },
+  "QQ": {
+     "Airline":"Reno Air"
+    },
+  "QR": {
+     "Airline":"Qatar Airways"
+    },
+  "QS": {
+     "Airline":"African Safari Airways"
+    },
+  "QS": {
+     "Airline":"Smartwings"
+    },
+  "QT": {
+     "Airline":"TAMPA"
+    },
+  "QU": {
+     "Airline":"Uganda Airlines (1976–2001)"
+    },
+  "QU": {
+     "Airline":"UTair-Ukraine"
+    },
+  "QV": {
+     "Airline":"Lao Airlines"
+    },
+  "QW": {
+     "Airline":"Blue Wings"
+    },
+  "QX": {
+     "Airline":"Horizon Air"
+    },
+  "QY": {
+     "Airline":"European Air Transport"
+    },
+  "QZ": {
+     "Airline":"Indonesia AirAsia"
+    },
+  "R0": {
+     "Airline":"Royal Airlines"
+    },
+  "R1": {
+     "Airline":"Sirin"
+    },
+  "R2": {
+     "Airline":"Orenburg Airlines"
+    },
+  "R3": {
+     "Airline":"Aircompany Yakutia"
+    },
+  "R3": {
+     "Airline":"Armenian Airlines"
+    },
+  "R3": {
+     "Airline":"Yakutia Airlines"
+    },
+  "R5": {
+     "Airline":"Jordan Aviation"
+    },
+  "R5": {
+     "Airline":"Malta Air Charter"
+    },
+  "R6": {
+     "Airline":"RACSA"
+    },
+  "R7": {
+     "Airline":"Aserca Airlines"
+    },
+  "R8": {
+     "Airline":"Kyrgyzstan Airlines"
+    },
+  "R9": {
+     "Airline":"Camai Air"
+    },
+  "RA": {
+     "Airline":"Nepal Airlines"
+    },
+  "RB": {
+     "Airline":"Air Srpska"
+    },
+  "RB": {
+     "Airline":"Syrian Arab Airlines"
+    },
+  "RC": {
+     "Airline":"Atlantic Airways"
+    },
+  "RC": {
+     "Airline":"Republic Airlines"
+    },
+  "RD": {
+     "Airline":"Ryan International Airlines"
+    },
+  "RE": {
+     "Airline":"Aer Arann"
+    },
+  "RE": {
+     "Airline":"Stobart Air"
+    },
+  "RF": {
+     "Airline":"Aero K"
+    },
+  "RF": {
+     "Airline":"Florida West International Airways"
+    },
+  "RG": {
+     "Airline":"Varig"
+    },
+  "RH": {
+     "Airline":"Hong Kong Air Cargo"
+    },
+  "RH": {
+     "Airline":"Republic Express Airlines"
+    },
+  "RI": {
+     "Airline":"Mandala Airlines"
+    },
+  "RJ": {
+     "Airline":"Royal Jordanian"
+    },
+  "RK": {
+     "Airline":"Royal Khmer Airlines"
+    },
+  "RK": {
+     "Airline":"Ryanair UK"
+    },
+  "RK": {
+     "Airline":"Skyview Airways"
+    },
+  "RL": {
+     "Airline":"Abakan-Avia"
+    },
+  "RL": {
+     "Airline":"Rio Linhas Aéreas"
+    },
+  "RL": {
+     "Airline":"Royal Phnom Penh Airways"
+    },
+  "RO": {
+     "Airline":"Tarom"
+    },
+  "RP*": {
+     "Airline":"Chautauqua Airlines"
+    },
+  "RQ": {
+     "Airline":"Kam Air"
+    },
+  "RR": {
+     "Airline":"Buzz (Ryanair)"
+    },
+  "RR": {
+     "Airline":"Royal Air Force"
+    },
+  "RS": {
+     "Airline":"Air Seoul"
+    },
+  "RS": {
+     "Airline":"Intercontinental de Aviación"
+    },
+  "RS": {
+     "Airline":"Royal Air Force of Oman"
+    },
+  "RT": {
+     "Airline":"UVT Aero"
+    },
+  "RU": {
+     "Airline":"AirBridge Cargo"
+    },
+  "RU": {
+     "Airline":"SkyKing Turks and Caicos Airways"
+    },
+  "RV": {
+     "Airline":"Air Canada Rouge"
+    },
+  "RV": {
+     "Airline":"Caspian Airlines"
+    },
+  "RV*": {
+     "Airline":"Africaone"
+    },
+  "RW": {
+     "Airline":"Republic Airways"
+    },
+  "RX": {
+     "Airline":"Aviaexpress"
+    },
+  "RX": {
+     "Airline":"Regent Airways"
+    },
+  "RZ": {
+     "Airline":"Euro Exec Express"
+    },
+  "RZ*": {
+     "Airline":"Sansa"
+    },
+  "S0": {
+     "Airline":"Slok Air Gambia"
+    },
+  "S2": {
+     "Airline":"Air Sahara"
+    },
+  "S3": {
+     "Airline":"Santa Barbara Airlines"
+    },
+  "S4": {
+     "Airline":"SATA International"
+    },
+  "S5": {
+     "Airline":"Shuttle America"
+    },
+  "S5": {
+     "Airline":"Small Planet Airlines"
+    },
+  "S5": {
+     "Airline":"Star Air (India)"
+    },
+  "S5": {
+     "Airline":"Trast Aero"
+    },
+  "S7": {
+     "Airline":"S7 Airlines"
+    },
+  "S8": {
+     "Airline":"Chari Aviation Services"
+    },
+  "S8": {
+     "Airline":"Shovkoviy Shlyah"
+    },
+  "S8": {
+     "Airline":"Skywise Airline"
+    },
+  "S9": {
+     "Airline":"East African Safari Air"
+    },
+  "SA": {
+     "Airline":"South African Airways"
+    },
+  "SB": {
+     "Airline":"Air Caledonie International"
+    },
+  "SC": {
+     "Airline":"Shandong Airlines"
+    },
+  "SD": {
+     "Airline":"Sudan Airways"
+    },
+  "SE": {
+     "Airline":"XL Airways France"
+    },
+  "SF": {
+     "Airline":"Tassili  Airlines"
+    },
+  "SG": {
+     "Airline":"JetsGo"
+    },
+  "SG": {
+     "Airline":"Spicejet"
+    },
+  "SH": {
+     "Airline":"Fly Me Sweden"
+    },
+  "SH": {
+     "Airline":"Sharp Airlines"
+    },
+  "SI": {
+     "Airline":"Blue Islands"
+    },
+  "SI": {
+     "Airline":"Skynet Airlines"
+    },
+  "SJ": {
+     "Airline":"Freedom Air"
+    },
+  "SK": {
+     "Airline":"SAS Braathens"
+    },
+  "SK": {
+     "Airline":"Scandinavian Airlines"
+    },
+  "SL": {
+     "Airline":"Rio Sul Serviços Aéreos Regionais"
+    },
+  "SL": {
+     "Airline":"Thai  Lion Mentari"
+    },
+  "SM": {
+     "Airline":"Allied Airways"
+    },
+  "SM": {
+     "Airline":"Swedline Express"
+    },
+  "SN": {
+     "Airline":"Brussels Airlines"
+    },
+  "SO": {
+     "Airline":"Sosoliso Airlines"
+    },
+  "SO": {
+     "Airline":"Sunshine Airlines"
+    },
+  "SO": {
+     "Airline":"Superior Aviation"
+    },
+  "SP": {
+     "Airline":"SATA Air Acores"
+    },
+  "SQ": {
+     "Airline":"Singapore Airlines"
+    },
+  "SQ": {
+     "Airline":"Singapore Airlines Cargo"
+    },
+  "SR": {
+     "Airline":"Sundair"
+    },
+  "SR": {
+     "Airline":"Swissair"
+    },
+  "SS": {
+     "Airline":"Corsairfly"
+    },
+  "ST": {
+     "Airline":"Germania"
+    },
+  "ST*": {
+     "Airline":"Western Aircraft, Inc"
+    },
+  "SU": {
+     "Airline":"Aeroflot"
+    },
+  "SV": {
+     "Airline":"Saudia"
+    },
+  "SW": {
+     "Airline":"Air Namibia"
+    },
+  "SX": {
+     "Airline":"FlyGTA Airlines"
+    },
+  "SX": {
+     "Airline":"Sky Work Airlines"
+    },
+  "SX": {
+     "Airline":"Skybus Airlines"
+    },
+  "SY": {
+     "Airline":"Sun Country Airlines"
+    },
+  "SZ": {
+     "Airline":"Air Southwest"
+    },
+  "T2": {
+     "Airline":"Thai  Air Cargo"
+    },
+  "T3": {
+     "Airline":"Eastern Airways"
+    },
+  "T4": {
+     "Airline":"TRIP Linhas Aéreas"
+    },
+  "T5": {
+     "Airline":"Turkmenistan Airlines"
+    },
+  "T6": {
+     "Airline":"Tavrey  Airlines"
+    },
+  "T7": {
+     "Airline":"Twin Jet"
+    },
+  "T9": {
+     "Airline":"Thai Star Airlines"
+    },
+  "T9": {
+     "Airline":"TransMeridian Airlines"
+    },
+  "TB": {
+     "Airline":"TUI  fly Belgium"
+    },
+  "TC": {
+     "Airline":"Air Tanzania"
+    },
+  "TC": {
+     "Airline":"Air Tanzania Company Limited"
+    },
+  "TD": {
+     "Airline":"Atlantis European Airways"
+    },
+  "TD": {
+     "Airline":"Tulip Air"
+    },
+  "TE": {
+     "Airline":"FlyLal"
+    },
+  "TE": {
+     "Airline":"Skytaxi"
+    },
+  "TF": {
+     "Airline":"Malmö Aviation"
+    },
+  "TG": {
+     "Airline":"Thai Airways International"
+    },
+  "TH": {
+     "Airline":"BA Connect"
+    },
+  "TH": {
+     "Airline":"British Regional Airlines"
+    },
+  "TH": {
+     "Airline":"Transmile Air Services"
+    },
+  "TI": {
+     "Airline":"Tailwind Airlines"
+    },
+  "TI": {
+     "Airline":"Tol-Air  Services"
+    },
+  "TJ": {
+     "Airline":"Tradewind Aviation"
+    },
+  "TK": {
+     "Airline":"Turkish  Airlines"
+    },
+  "TL": {
+     "Airline":"Airnorth"
+    },
+  "TL": {
+     "Airline":"Trans  Mediterranean Airlines"
+    },
+  "TM": {
+     "Airline":"Linhas Aéreas de Moçambique"
+    },
+  "TN": {
+     "Airline":"Air Tahiti Nui"
+    },
+  "TO": {
+     "Airline":"President Airlines"
+    },
+  "TO": {
+     "Airline":"Transavia  France"
+    },
+  "TP": {
+     "Airline":"TAP  Portugal"
+    },
+  "TQ": {
+     "Airline":"Tandem  Aero"
+    },
+  "TR": {
+     "Airline":"Scoot"
+    },
+  "TR": {
+     "Airline":"Tigerair  Singapore"
+    },
+  "TR": {
+     "Airline":"Transbrasil"
+    },
+  "TS": {
+     "Airline":"Air Transat"
+    },
+  "TT": {
+     "Airline":"Air Lithuania"
+    },
+  "TT": {
+     "Airline":"Tigerair Australia"
+    },
+  "TU": {
+     "Airline":"Tunisair"
+    },
+  "TV": {
+     "Airline":"Virgin Express"
+    },
+  "TW": {
+     "Airline":"Trans World Airlines"
+    },
+  "TW": {
+     "Airline":"T'way Air"
+    },
+  "TX": {
+     "Airline":"Air Caraïbes"
+    },
+  "TX": {
+     "Airline":"Transportes Aéreos Nacionales"
+    },
+  "TXZ": {
+     "Airline":"Thai Express Air"
+    },
+  "TY": {
+     "Airline":"Air Calédonie"
+    },
+  "TY": {
+     "Airline":"Iberworld"
+    },
+  "TZ": {
+     "Airline":"air-taxi Europe"
+    },
+  "TZ": {
+     "Airline":"ATA Airlines"
+    },
+  "TZ": {
+     "Airline":"Tsaradia"
+    },
+  "U2": {
+     "Airline":"easyJet UK"
+    },
+  "U3": {
+     "Airline":"Avies"
+    },
+  "U4": {
+     "Airline":"Buddha Air"
+    },
+  "U4": {
+     "Airline":"PMTair"
+    },
+  "U5": {
+     "Airline":"USA3000 Airlines"
+    },
+  "U6": {
+     "Airline":"Ural Airlines"
+    },
+  "U7": {
+     "Airline":"Air Uganda"
+    },
+  "U7": {
+     "Airline":"Northern Dene Airways"
+    },
+  "U7": {
+     "Airline":"USA Jet Airlines"
+    },
+  "U8": {
+     "Airline":"Armavia"
+    },
+  "U8": {
+     "Airline":"Tel Aviv Air"
+    },
+  "UA": {
+     "Airline":"United Airlines"
+    },
+  "UB": {
+     "Airline":"Myanma Airways"
+    },
+  "UC": {
+     "Airline":"LATAM Cargo Chile"
+    },
+  "UD": {
+     "Airline":"Hex'Air"
+    },
+  "UE": {
+     "Airline":"Nasair"
+    },
+  "UE": {
+     "Airline":"Transeuropean Airlines"
+    },
+  "UF": {
+     "Airline":"UM Airlines"
+    },
+  "UG": {
+     "Airline":"SevenAir"
+    },
+  "UG": {
+     "Airline":"Tuninter"
+    },
+  "UH": {
+     "Airline":"Bristow Helicopters"
+    },
+  "UH": {
+     "Airline":"US Helicopter"
+    },
+  "UI": {
+     "Airline":"Eurocypria Airlines"
+    },
+  "UI": {
+     "Airline":"SW Italia"
+    },
+  "UJ": {
+     "Airline":"AlMasria Universal Airlines"
+    },
+  "UK": {
+     "Airline":"Vistara"
+    },
+  "UL": {
+     "Airline":"SriLankan Airlines"
+    },
+  "UM": {
+     "Airline":"Air Zimbabwe"
+    },
+  "UN": {
+     "Airline":"Transaero Airlines"
+    },
+  "UO": {
+     "Airline":"Hong Kong Express Airways"
+    },
+  "UP": {
+     "Airline":"Bahamasair"
+    },
+  "UQ": {
+     "Airline":"O'Connor Airlines"
+    },
+  "UR": {
+     "Airline":"Uganda Airlines"
+    },
+  "US": {
+     "Airline":"Unavia Suisse"
+    },
+  "US": {
+     "Airline":"US Airways"
+    },
+  "UT": {
+     "Airline":"UTair Aviation"
+    },
+  "UU": {
+     "Airline":"Air Austral"
+    },
+  "UX": {
+     "Airline":"Air Europa"
+    },
+  "UY": {
+     "Airline":"Cameroon Airlines"
+    },
+  "UZ": {
+     "Airline":"El-Buraq Air Transport"
+    },
+  "V0": {
+     "Airline":"Conviasa"
+    },
+  "V2": {
+     "Airline":"Karat"
+    },
+  "V2": {
+     "Airline":"Vision Airlines"
+    },
+  "V3": {
+     "Airline":"Carpatair"
+    },
+  "V4": {
+     "Airline":"Reem Air"
+    },
+  "V4": {
+     "Airline":"Vieques Air Link"
+    },
+  "V5": {
+     "Airline":"Avolar Aerolíneas"
+    },
+  "V5": {
+     "Airline":"DanubeWings"
+    },
+  "V5": {
+     "Airline":"Royal Aruban Airlines"
+    },
+  "V7": {
+     "Airline":"Air Senegal International"
+    },
+  "V7": {
+     "Airline":"Volotea"
+    },
+  "V8": {
+     "Airline":"ATRAN Cargo Airlines"
+    },
+  "V8": {
+     "Airline":"Iliamna Air Taxi"
+    },
+  "V9": {
+     "Airline":"BAL Bashkirian Airlines"
+    },
+  "V9": {
+     "Airline":"Star1 Airlines"
+    },
+  "VA": {
+     "Airline":"Viasa"
+    },
+  "VA": {
+     "Airline":"Virgin Australia"
+    },
+  "VA": {
+     "Airline":"Virgin Australia Regional Airlines"
+    },
+  "VB": {
+     "Airline":"Aeroenlaces Nacionales"
+    },
+  "VB": {
+     "Airline":"Maersk Air UK"
+    },
+  "VB": {
+     "Airline":"VivaAerobus"
+    },
+  "VC": {
+     "Airline":"Ocean Airlines"
+    },
+  "VC": {
+     "Airline":"Voyageur Airways"
+    },
+  "VD": {
+     "Airline":"Kunpeng Airlines"
+    },
+  "VD": {
+     "Airline":"SwedJet Airways"
+    },
+  "VE": {
+     "Airline":"Avensa"
+    },
+  "VE": {
+     "Airline":"C.A.I. Second"
+    },
+  "VE": {
+     "Airline":"EUjet"
+    },
+  "VF": {
+     "Airline":"Valuair"
+    },
+  "VG": {
+     "Airline":"VLM Airlines"
+    },
+  "VH": {
+     "Airline":"Aeropostal Alas de Venezuela"
+    },
+  "VH": {
+     "Airline":"Viva Air Colombia"
+    },
+  "VI": {
+     "Airline":"Volga-Dnepr Airlines"
+    },
+  "VJ": {
+     "Airline":"Africa Airways"
+    },
+  "VJ": {
+     "Airline":"Jatayu Airlines"
+    },
+  "VJ": {
+     "Airline":"Vietjet Air"
+    },
+  "VK": {
+     "Airline":"FlyViking"
+    },
+  "VK": {
+     "Airline":"Virgin Nigeria Airways"
+    },
+  "VL": {
+     "Airline":"Air VIA"
+    },
+  "VM": {
+     "Airline":"His Majesty King Maha Vajiralongkorn"
+    },
+  "VM": {
+     "Airline":"Viaggio Air"
+    },
+  "VN": {
+     "Airline":"Vietnam Airlines"
+    },
+  "VO": {
+     "Airline":"Tyrolean  Airways"
+    },
+  "VP": {
+     "Airline":"Indochina Airlines"
+    },
+  "VP": {
+     "Airline":"VASP"
+    },
+  "VQ": {
+     "Airline":"Novo Air"
+    },
+  "VR": {
+     "Airline":"TACV"
+    },
+  "VS": {
+     "Airline":"Virgin Atlantic"
+    },
+  "VT": {
+     "Airline":"Air Tahiti"
+    },
+  "VU": {
+     "Airline":"Air Ivoire"
+    },
+  "VU": {
+     "Airline":"Vietravel Airlines"
+    },
+  "VV": {
+     "Airline":"Aerosvit Airlines"
+    },
+  "VW": {
+     "Airline":"Aeromar"
+    },
+  "VX": {
+     "Airline":"ACES Colombia"
+    },
+  "VX": {
+     "Airline":"Virgin America"
+    },
+  "VY": {
+     "Airline":"Formosa Airlines"
+    },
+  "VY": {
+     "Airline":"Vueling Airlines"
+    },
+  "VZ": {
+     "Airline":"MyTravel Airways"
+    },
+  "VZ": {
+     "Airline":"Thai  Vietjet Air"
+    },
+  "W2": {
+     "Airline":"Canadian Western Airlines"
+    },
+  "W3": {
+     "Airline":"Flyhy Cargo Airlines"
+    },
+  "W3": {
+     "Airline":"Switfair Cargo"
+    },
+  "W4": {
+     "Airline":"Aero Services Executive"
+    },
+  "W5": {
+     "Airline":"Mahan Air"
+    },
+  "W6": {
+     "Airline":"Wizz Air"
+    },
+  "W7": {
+     "Airline":"Sayakhat Airlines"
+    },
+  "W7": {
+     "Airline":"Western Pacific Airlines"
+    },
+  "W8": {
+     "Airline":"Cargojet Airways"
+    },
+  "W9": {
+     "Airline":"Abelag Aviation"
+    },
+  "W9": {
+     "Airline":"Air Bagan"
+    },
+  "W9": {
+     "Airline":"Eastwind Airlines"
+    },
+  "W9": {
+     "Airline":"Wizz Air UK"
+    },
+  "WA": {
+     "Airline":"KLM Cityhopper"
+    },
+  "WA": {
+     "Airline":"Western Airlines"
+    },
+  "WB": {
+     "Airline":"Rwandair Express"
+    },
+  "WC": {
+     "Airline":"Islena De Inversiones"
+    },
+  "WC": {
+     "Airline":"Wien Air Alaska"
+    },
+  "WD": {
+     "Airline":"DAS Air Cargo"
+    },
+  "WD": {
+     "Airline":"Modern Transporte Aereo De Carga"
+    },
+  "WD": {
+     "Airline":"WDL Aviation"
+    },
+  "WD*": {
+     "Airline":"Amsterdam Airlines"
+    },
+  "WE": {
+     "Airline":"Centurion Air Cargo"
+    },
+  "WE": {
+     "Airline":"Thai Smile  Airways"
+    },
+  "WF": {
+     "Airline":"Widerøe"
+    },
+  "WG": {
+     "Airline":"Sunwing Airlines"
+    },
+  "WH": {
+     "Airline":"China Northwest Airlines"
+    },
+  "WH": {
+     "Airline":"WebJet Linhas Aéreas"
+    },
+  "WI": {
+     "Airline":"Aero Air"
+    },
+  "WK": {
+     "Airline":"American Falcon"
+    },
+  "WK": {
+     "Airline":"Edelweiss Air"
+    },
+  "WL": {
+     "Airline":"Air Wales Virtual"
+    },
+  "WN": {
+     "Airline":"Southwest Airlines"
+    },
+  "WO": {
+     "Airline":"Swoop"
+    },
+  "WO": {
+     "Airline":"World Airways"
+    },
+  "WP": {
+     "Airline":"Air Antwerp"
+    },
+  "WQ": {
+     "Airline":"Swift Air (Interstate Equipment Leasing)"
+    },
+  "WR": {
+     "Airline":"Royal Tongan Airlines"
+    },
+  "WR": {
+     "Airline":"WestJet Encore"
+    },
+  "WS": {
+     "Airline":"WestJet"
+    },
+  "WT": {
+     "Airline":"Wasaya Airways"
+    },
+  "WV": {
+     "Airline":"Swe Fly"
+    },
+  "WW": {
+     "Airline":"Bmibaby"
+    },
+  "WW": {
+     "Airline":"WOW air"
+    },
+  "WX": {
+     "Airline":"CityJet"
+    },
+  "WY": {
+     "Airline":"Oman Air"
+    },
+  "WZ": {
+     "Airline":"West African Airlines"
+    },
+  "X3": {
+     "Airline":"Hapag-Lloyd Express"
+    },
+  "X3": {
+     "Airline":"TUI fly Deutschland"
+    },
+  "X7": {
+     "Airline":"Chitaavia"
+    },
+  "X9": {
+     "Airline":"Avion Express"
+    },
+  "X9\nKO": {
+     "Airline":"Khors Aircompany"
+    },
+  "XC": {
+     "Airline":"Corendon Airlines"
+    },
+  "XE": {
+     "Airline":"JSX (airline)"
+    },
+  "XF": {
+     "Airline":"Vladivostok Air"
+    },
+  "XG": {
+     "Airline":"Clickair"
+    },
+  "XG": {
+     "Airline":"Sunexpress Deutschland"
+    },
+  "XJ": {
+     "Airline":"Mesaba Airlines"
+    },
+  "XJ": {
+     "Airline":"Thai  AirAsia X"
+    },
+  "XK": {
+     "Airline":"Air Corsica"
+    },
+  "XK": {
+     "Airline":"Corse Méditerranée"
+    },
+  "XL": {
+     "Airline":"Aerolane"
+    },
+  "XM": {
+     "Airline":"Australian airExpress"
+    },
+  "XM": {
+     "Airline":"J-Air"
+    },
+  "XN": {
+     "Airline":"XpressAir"
+    },
+  "XO": {
+     "Airline":"China Xinhua Airlines"
+    },
+  "XO": {
+     "Airline":"LTE International Airways"
+    },
+  "XP": {
+     "Airline":"Avelo Airlines"
+    },
+  "XQ": {
+     "Airline":"SunExpress"
+    },
+  "XS": {
+     "Airline":"SITA"
+    },
+  "XT": {
+     "Airline":"Air Exel"
+    },
+  "XT": {
+     "Airline":"SkyStar Airways"
+    },
+  "XW": {
+     "Airline":"NokScoot"
+    },
+  "XY": {
+     "Airline":"Flynas"
+    },
+  "Y0": {
+     "Airline":"Yellow Air Taxi/Friendship Airways"
+    },
+  "Y2": {
+     "Airline":"Alliance Air"
+    },
+  "Y2": {
+     "Airline":"Flyglobespan"
+    },
+  "Y4": {
+     "Airline":"Volaris"
+    },
+  "Y5": {
+     "Airline":"Golden Myanmar Airlines"
+    },
+  "Y5": {
+     "Airline":"Pace Airlines"
+    },
+  "Y6": {
+     "Airline":"Batavia Air"
+    },
+  "Y7": {
+     "Airline":"NordStar"
+    },
+  "Y8": {
+     "Airline":"Suparna Airlines"
+    },
+  "Y9": {
+     "Airline":"Kish Air"
+    },
+  "Y9": {
+     "Airline":"Lynx Air"
+    },
+  "YB": {
+     "Airline":"Borajet"
+    },
+  "YD": {
+     "Airline":"Cologne Air Transport GmbH"
+    },
+  "YE": {
+     "Airline":"Aryan Cargo Express"
+    },
+  "YH": {
+     "Airline":"West Caribbean Airways"
+    },
+  "YI": {
+     "Airline":"Air Sunshine"
+    },
+  "YJ": {
+     "Airline":"AMC Airlines"
+    },
+  "YK": {
+     "Airline":"Cyprus Turkish Airlines"
+    },
+  "YL": {
+     "Airline":"Yamal Airlines"
+    },
+  "YM": {
+     "Airline":"Montenegro Airlines"
+    },
+  "YQ": {
+     "Airline":"TAR Aerolineas"
+    },
+  "YS": {
+     "Airline":"Régional"
+    },
+  "YT": {
+     "Airline":"Air Togo"
+    },
+  "YT": {
+     "Airline":"Yeti Airlines"
+    },
+  "YU": {
+     "Airline":"Dominair"
+    },
+  "YV": {
+     "Airline":"Mesa Airlines"
+    },
+  "YW": {
+     "Airline":"Air Nostrum"
+    },
+  "YX": {
+     "Airline":"Midwest Airlines"
+    },
+  "Z2": {
+     "Airline":"Philippines AirAsia"
+    },
+  "Z3": {
+     "Airline":"Avient Aviation"
+    },
+  "Z4": {
+     "Airline":"Zoom Airlines"
+    },
+  "Z5": {
+     "Airline":"GMG Airlines"
+    },
+  "Z6": {
+     "Airline":"Dniproavia"
+    },
+  "Z7*": {
+     "Airline":"ADC Airlines"
+    },
+  "Z8": {
+     "Airline":"Línea Aérea Amaszonas"
+    },
+  "Z9": {
+     "Airline":"MYAirline"
+    },
+  "ZA": {
+     "Airline":"AccessAir"
+    },
+  "ZA": {
+     "Airline":"Interavia Airlines"
+    },
+  "ZB": {
+     "Airline":"Air Albania"
+    },
+  "ZB": {
+     "Airline":"Air Bourbon"
+    },
+  "ZB": {
+     "Airline":"Monarch Airlines"
+    },
+  "ZD": {
+     "Airline":"Ewa Air"
+    },
+  "ZE": {
+     "Airline":"Arcus-Air Logistic"
+    },
+  "ZE": {
+     "Airline":"Eastar Jet"
+    },
+  "ZE": {
+     "Airline":"Líneas Aéreas Azteca"
+    },
+  "ZG": {
+     "Airline":"Viva Macau"
+    },
+  "ZG": {
+     "Airline":"Zipair Tokyo"
+    },
+  "ZH": {
+     "Airline":"Shenzhen Airlines"
+    },
+  "ZI": {
+     "Airline":"Aigle Azur"
+    },
+  "ZK": {
+     "Airline":"Great Lakes Airlines"
+    },
+  "ZL": {
+     "Airline":"Regional Express"
+    },
+  "ZN": {
+     "Airline":"Key Airlines"
+    },
+  "ZP": {
+     "Airline":"Amaszonas Paraguay"
+    },
+  "ZP": {
+     "Airline":"Silk Way Airlines"
+    },
+  "ZQ": {
+     "Airline":"Air Montenegro"
+    },
+  "ZS": {
+     "Airline":"Azzurra Air"
+    },
+  "ZS": {
+     "Airline":"Sama Airlines"
+    },
+  "ZT": {
+     "Airline":"Titan  Airways"
+    },
+  "ZT": {
+     "Airline":"Titan Airways"
+    },
+  "ZU": {
+     "Airline":"Helios Airways"
+    },
+  "ZV": {
+     "Airline":"Air Midwest"
+    },
+  "ZW": {
+     "Airline":"Air Wisconsin"
+    },
+  "ZX": {
+     "Airline":"Air BC"
+    },
+  "ZX": {
+     "Airline":"Air Georgian"
+    },
+  "ZY": {
+     "Airline":"Sky Airlines"
+    }
+}
